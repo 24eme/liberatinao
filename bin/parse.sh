@@ -10,5 +10,7 @@ grep '<strong>Produit</strong>' html/* |
         awk -F ';' 'BEGIN {OFS=";"} { if ( $10 ~ /[0-9][A-Z][0-9]*/ ) $10 = ";;"$10 ; if ( $11 ~ /[0-9][A-Z][0-9]*/ ) $11 = ";"$11 ; print $0 }' | 
         awk -F ';' 'BEGIN {OFS=";"} { if ( $9 ~ /^Sec/ ) { $10 = $9 ; $9 = "" } if ( $10 ~ /^(Dép|Grand|Premier|Régio|Zone)/ ) { $11 = $10 ; $10 = "" } print $0 }' | 
         awk -F ';' 'BEGIN {OFS=";"} { $13=$1 ; $1=""; print $0}' | sed 's/^;//' | 
+        sed 's/ . Appellation d.origine protégée//' | sed 's/ . Indication géographique protégée//' | sed 's/ . Indication géographique//' |
+	sed 's/ - Appellation d.origine contrôlée//' | sed 's/ - Appellation d.origine réglementée//' | sed 's/ - Label rouge//' | 
 	sed 's/[,"]//g' | sed 's/;/,/g' >> data/produits.csv
 
