@@ -1,0 +1,4 @@
+#!/bin/bash
+
+grep '<strong>Produit</strong>' html/* | sed 's/<li>/;/g' | sed 's/<li>/;/g'  | awk -F ';' 'BEGIN{OFS=";"}  {if ( $4 !~ /Statut FR/ ) $4=";"$4 ; print $0 ;}' | sed 's/<strong>[^<]*<.strong>//g' |  sed 's/<[^>]*>//g' | sed 's/Description.*//' | sed 's/[^;]*: *//g'  | awk -F ';' '{gsub(" - ", ";", $6) ; print $5";"$4";"$7";"$8";"$2";"$6}' | awk -F ';' 'BEGIN {OFS=";"} { if ( $9 ~ /[0-9][A-Z][0-9]*/ ) $9 = ";;"$9 ; if ( $10 ~ /[0-9][A-Z][0-9]*/ ) $10 = ";;"$10 ; print $0 }' | sed 's/,//g' | sed 's/;/","/g' | sed 's/$/"/' > data/produits.csv
+
