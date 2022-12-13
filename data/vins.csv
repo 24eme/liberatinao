@@ -104,28 +104,29 @@ IGP,Mont Caume,Mont Caume primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S832
 IGP,Var,Var mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S831M
 IGP,Var,Var rosé,Vin tranquille,Rosé,,Départemental,3S831
 IGP,Var,Var primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S831
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban mousseux de qualité rouge,Vin mousseux,Rosé,,Régional,3S824M
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S824M
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S824M
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban rouge,Vin tranquille,Rosé,,Régional,3S824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban rouge,Vin tranquille,Rosé,,Régional,3S824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban rosé,Vin tranquille,Rosé,,Régional,3S824
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban rosé,Vin tranquille,Rosé,,Régional,3S824
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau rouge,Vin primeur,Rosé,,Régional,3S824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau rouge,Vin primeur,Rosé,,Régional,3S824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S824
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S824
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S821M
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S821M
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne rosé,Vin tranquille,Rosé,,Régional,3S821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne rosé,Vin tranquille,Rosé,,Régional,3S821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S821
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S821
 IGP,Côtes du Tarn,Côtes du Tarn rosé,Vin tranquille,Rosé,,Zone,3S812
 IGP,Côtes du Tarn,Côtes du Tarn primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S812
+IGP,Île-de-France,Île-de-France Coteaux de Provins rosé,Vin tranquille,Rosé,,Départemental,3S755
+IGP,Île-de-France,Île-de-France Coteaux de Provins primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S755
+IGP,Île-de-France,Île-de-France Coteaux de Blunay rosé,Vin tranquille,Rosé,,Départemental,3S754
+IGP,Île-de-France,Île-de-France Coteaux de Blunay primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S754
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien rosé,Vin tranquille,Rosé,,Départemental,3S753
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S753
+IGP,Île-de-France,Île-de-France Île-de-France Guérard primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S752
+IGP,Île-de-France,Île-de-France Guérard rosé,Vin tranquille,Rosé,,Départemental,3S752
+IGP,Île-de-France,Île-de-France Paris rosé,Vin tranquille,Rosé,,Départemental,3S751
+IGP,Île-de-France,Île-de-France Paris primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S751
+IGP,Île-de-France,Île-de-France rosé,Vin tranquille,Rosé,,Départemental,3S750
+IGP,Île-de-France,Île-de-France primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S750
 IGP,Vin des Allobroges,Vin des Allobroges mousseux de qualité rosé,Vin mousseux,Rosé,,Zone,3S732M
-IGP,Vin des Allobroges,Vin des Allobroges mousseux de qualité rosé,Vin mousseux,Rosé,,Zone,3S732M
-IGP,Vin des Allobroges,Vin des Allobroges rosé,Vin tranquille,Rosé,,Zone,3S732
 IGP,Vin des Allobroges,Vin des Allobroges rosé,Vin tranquille,Rosé,,Zone,3S732
 IGP,Val de Loire,Val de Loire Sarthe rosé,Vin tranquille,Rosé,,Régional,3S721
 IGP,Val de Loire,Val de Loire Sarthe primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S721
@@ -172,16 +173,10 @@ IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales rosé,Vin tranquille
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales rancio rosé,Vin tranquille,Rosé,,Zone,3S661
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S661
 IGP,Comté Tolosan,Comté Tolosan Bigorre mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S652M
-IGP,Comté Tolosan,Comté Tolosan Bigorre mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S652M
-IGP,Comté Tolosan,Comté Tolosan Bigorre rosé,Vin tranquille,Rosé,,Régional,3S652
 IGP,Comté Tolosan,Comté Tolosan Bigorre rosé,Vin tranquille,Rosé,,Régional,3S652
 IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S652
-IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S652
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S641M
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S641M
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques rosé,Vin tranquille,Rosé,,Régional,3S641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques rosé,Vin tranquille,Rosé,,Régional,3S641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S641
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S641
 IGP,Puy-de-Dôme,Puy-de-Dôme rosé,Vin tranquille,Rosé,,Départemental,3S631
 IGP,Puy-de-Dôme,Puy-de-Dôme primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S631
@@ -189,8 +184,6 @@ IGP,Coteaux de Tannay,Coteaux de Tannay mousseux de qualité rosé,Vin mousseux,
 IGP,Coteaux de Tannay,Coteaux de Tannay rosé,Vin tranquille,Rosé,,Zone,3S583
 IGP,Coteaux de Tannay,Coteaux de Tannay primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S583
 IGP,Côtes de la Charité,Côtes de la Charité  mousseux de qualité rosé,Vin tranquille,Rosé,,Zone,3S582M
-IGP,Côtes de la Charité,Côtes de la Charité  mousseux de qualité rosé,Vin tranquille,Rosé,,Zone,3S582M
-IGP,Côtes de la Charité,Côtes de la Charité rosé,Vin tranquille,Rosé,,Zone,3S582
 IGP,Côtes de la Charité,Côtes de la Charité rosé,Vin tranquille,Rosé,,Zone,3S582
 IGP,Val de Loire,Val de Loire Nièvre rosé,Vin tranquille,Rosé,,Régional,3S581
 IGP,Val de Loire,Val de Loire Nièvre primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S581
@@ -295,10 +288,7 @@ IGP,Gers,Gers mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S32
 IGP,Gers,Gers rosé,Vin tranquille,Rosé,,Départemental,3S321
 IGP,Gers,Gers primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S321
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S311M
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S311M
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne rosé,Vin tranquille,Rosé,,Régional,3S311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne rosé,Vin tranquille,Rosé,,Régional,3S311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S311
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S311
 IGP,Sable de Camargue,Sable de Camargue sur lie gris de gris,Vin sur lie,Gris,,Zone,3S310
 IGP,Sable de Camargue,Sable de Camargue primeur ou nouveau gris de gris,Vin primeur,Gris,,Zone,3S310
@@ -345,12 +335,8 @@ IGP,Coteaux de l'Auxois,Coteaux de l'Auxois rosé,Vin tranquille,Rosé,,Zone,3S2
 IGP,Coteaux de l'Auxois,Coteaux de l'Auxois primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S212
 IGP,Ile de Beauté,Ile de Beauté rosé,Vin tranquille,Rosé,,Zone,3S202
 IGP,Ile de Beauté,Ile de Beauté primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S202
-IGP,Vins de la Corrèze,Vins de la Corrèze mousseux rosé,Vin mousseux,Rosé,,Départemental,3S191M
-IGP,Vins de la Corrèze,Vins de la Corrèze rosé,Vin tranquille,Rosé,,Départemental,3S191
-IGP,Vins de la Corrèze,Vins de la Corrèze primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S191
 IGP,Pays de Brive,Pays de Brive rosé,Vin tranquille,Rosé,,Départemental,3S191
 IGP,Pays de Brive,Pays de Brive primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S191
-IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon rosé,Vin tranquille,Rosé,,Zone,3S182
 IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon rosé,Vin tranquille,Rosé,,Zone,3S182
 IGP,Val de Loire,Val de Loire Cher rosé,Vin tranquille,Rosé,,Régional,3S181
 IGP,Val de Loire,Val de Loire Cher primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S181
@@ -369,10 +355,7 @@ IGP,Charentais,Charentais Saint-Sornin rosé primeur ou nouveau,Vin primeur,Ros�
 IGP,Charentais,Charentais Ile de Ré rosé,Vin tranquille,Rosé,,Zone,3S162
 IGP,Charentais,Charentais Ile de Ré rosé primeur ou nouveau,Vin primeur,Rosé,,Zone,3S162
 IGP,Comté Tolosan,Comté Tolosan Cantal mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S151M
-IGP,Comté Tolosan,Comté Tolosan Cantal mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S151M
 IGP,Comté Tolosan,Comté Tolosan Cantal rosé,Vin tranquille,Rosé,,Régional,3S151
-IGP,Comté Tolosan,Comté Tolosan Cantal rosé,Vin tranquille,Rosé,,Régional,3S151
-IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S151
 IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S151
 IGP,Calvados,Calvados Grisy rosé,Vin tranquille,Rosé,,Départemental,3S142
 IGP,Calvados,Calvados Grisy primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S142
@@ -407,15 +390,9 @@ IGP,Ariège,Ariège primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3
 IGP,Collines Rhodaniennes,Collines Rhodaniennes Mousseux de qualité rosé,Vin mousseux,Rosé,,Zone,3S073M
 IGP,Collines Rhodaniennes,Collines Rhodaniennes rosé,Vin tranquille,Rosé,,Zone,3S073
 IGP,Collines Rhodaniennes,Collines Rhodaniennes primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S073
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S072M
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche rosé,Vin tranquille,Rosé,,Départemental,3S072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche rosé,Vin tranquille,Rosé,,Départemental,3S072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S072
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S072
-IGP,Ardèche,Ardèche mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S071M
 IGP,Ardèche,Ardèche rosé,Vin tranquille,Rosé,,Départemental,3S071
-IGP,Ardèche,Ardèche rosé,Vin tranquille,Rosé,,Départemental,3S071
-IGP,Ardèche,Ardèche primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S071
 IGP,Ardèche,Ardèche primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S071
 IGP,Alpes-Maritimes,Alpes-Maritimes mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S061M
 IGP,Alpes-Maritimes,Alpes-Maritimes rosé,Vin tranquille,Rosé,,Départemental,3S061
@@ -433,12 +410,8 @@ IGP,Méditerranée,Méditérranée Comté de Grignan mousseux de qualité rosé,
 IGP,Méditerranée,Méditérranée Comté de Grignan rosé,Vin tranquille,Rosé,,Régional,3S033
 IGP,Méditerranée,Méditérranée Comté de Grignan primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S033
 IGP,Val de Loire,Val de Loire Allier rosé,Vin tranquille,Rosé,,Régional,3S031
-IGP,Val de Loire,Val de Loire Allier rosé,Vin tranquille,Rosé,,Régional,3S031
-IGP,Val de Loire,Val de Loire Allier primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S031
 IGP,Val de Loire,Val de Loire Allier primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S031
 IGP,Val de Loire,Val de Loire Allier primeur ou nouveau gris,Vin primeur,Rosé,,Régional,3S031
-IGP,Val de Loire,Val de Loire Allier primeur ou nouveau gris,Vin primeur,Rosé,,Régional,3S031
-IGP,Val de Loire,Val de Loire Allier gris,Vin tranquille,Rosé,,Régional,3S031
 IGP,Val de Loire,Val de Loire Allier gris,Vin tranquille,Rosé,,Régional,3S031
 IGP,Côtes du Tarn,Côtes du Tarn Cunac rosé,Vin tranquille,Rosé,,Zone,3S030
 IGP,Côtes du Tarn,Côtes du Tarn Cunac primeur ou nouveau rosé,Vin primeur,Rosé,,Zone,3S030
@@ -454,76 +427,44 @@ IGP,Ariège,Ariège Coteaux du Plantaurel primeur ou nouveau rosé,Vin primeur,R
 IGP,Ariège,Ariège Coteaux de la Lèze rosé,Vin tranquille,Rosé,,Départemental,3S016
 IGP,Ariège,Ariège Coteaux de la Lèze primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S016
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey rosé,Vin tranquille,Rosé,,Départemental,3S015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey rosé,Vin tranquille,Rosé,,Départemental,3S015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône rosé,Vin tranquille,Rosé,,Départemental,3S014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône rosé,Vin tranquille,Rosé,,Départemental,3S014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont rosé,Vin tranquille,Rosé,,Départemental,3S013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont rosé,Vin tranquille,Rosé,,Départemental,3S013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex rosé,Vin tranquille,Rosé,,Départemental,3S012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex rosé,Vin tranquille,Rosé,,Départemental,3S012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S011M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité rosé,Vin mousseux,Rosé,,Départemental,3S011M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain rosé,Vin tranquille,Rosé,,Départemental,3S011
-IGP,Coteaux de l'Ain,Coteaux de l'Ain rosé,Vin tranquille,Rosé,,Départemental,3S011
 IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S011
-IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S011
-IGP,Val de Loire,Val de Loire rosé,Vin tranquille,Rosé,,Régional,3S009
+IGP,Terres du Midi,Terres du Midi rosé,Vin tranquille,Rosé,,Départemental,3S010
+IGP,Terres du Midi,Terres du Midi primeur ou nouveau rosé,Vin primeur,Rosé,,Départemental,3S010
 IGP,Val de Loire,Val de Loire rosé,Vin tranquille,Rosé,,Régional,3S009
 IGP,Val de Loire,Val de Loire primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S009
 IGP,Val de Loire,Val de Loire primeur ou nouveau gris,Vin primeur,Rosé,,Régional,3S009
 IGP,Val de Loire,Val de Loire gris,Vin tranquille,Rosé,,Régional,3S009
-IGP,Val de Loire,Val de Loire gris,Vin tranquille,Rosé,,Régional,3S009
 IGP,Atlantique,Atlantique rosé,Vin tranquille,Rosé,,Régional,3S008
 IGP,Atlantique,Atlantique primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S008
-IGP,Méditerranée,Méditerranée mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S007M
 IGP,Méditerranée,Méditerranée mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S007M
 IGP,Méditerranée,Méditerranée rosé,Vin tranquille,Rosé,,Régional,3S007
 IGP,Méditerranée,Méditerranée primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S007
 IGP,Comtés Rhodaniens,Comtés Rhodaniens rosé,Vin tranquille,Rosé,,Régional,3S004
-IGP,Comtés Rhodaniens,Comtés Rhodaniens rosé,Vin tranquille,Rosé,,Régional,3S004
-IGP,Comté Tolosan,Comté Tolosan mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S003M
 IGP,Comté Tolosan,Comté Tolosan mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S003M
 IGP,Comté Tolosan,Comté Tolosan rosé,Vin tranquille,Rosé,,Régional,3S003
-IGP,Comté Tolosan,Comté Tolosan rosé,Vin tranquille,Rosé,,Régional,3S003
-IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S003
 IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S003
 IGP,Pays d'Oc,Pays d'Oc surmûris rosé,Vin de raisins surmuris,Rosé,,Régional,3S001U
-IGP,Pays d'Oc,Pays d'Oc surmûris rosé,Vin de raisins surmuris,Rosé,,Régional,3S001U
-IGP,Pays d'Oc,Pays d'Oc Surmûri gris,Vin de raisins surmuris,Gris,,Régional,3S001U
 IGP,Pays d'Oc,Pays d'Oc Surmûri gris,Vin de raisins surmuris,Gris,,Régional,3S001U
 IGP,Pays d'Oc,Pays d'Oc Surmûri gris de gris,Vin de raisins surmuris,Gris,,Régional,3S001U
-IGP,Pays d'Oc,Pays d'Oc Surmûri gris de gris,Vin de raisins surmuris,Gris,,Régional,3S001U
-IGP,Pays d'Oc,Pays d'Oc mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S001M
 IGP,Pays d'Oc,Pays d'Oc mousseux de qualité rosé,Vin mousseux,Rosé,,Régional,3S001M
 IGP,Pays d'Oc,Pays d'Oc mousseux de qualité gris,Vin mousseux,Gris,,Régional,3S001M
-IGP,Pays d'Oc,Pays d'Oc mousseux de qualité gris,Vin mousseux,Gris,,Régional,3S001M
-IGP,Pays d'Oc,Pays d'Oc mousseux de qualité gris de gris,Vin mousseux,Gris,,Régional,3S001M
 IGP,Pays d'Oc,Pays d'Oc mousseux de qualité gris de gris,Vin mousseux,Gris,,Régional,3S001M
 IGP,Pays d'Oc,Pays d'Oc sur lie rosé,Vin sur lie,Rosé,,Régional,3S001
-IGP,Pays d'Oc,Pays d'Oc sur lie rosé,Vin sur lie,Rosé,,Régional,3S001
-IGP,Pays d'Oc,Pays d'Oc rosé,Vin tranquille,Rosé,,Régional,3S001
 IGP,Pays d'Oc,Pays d'Oc rosé,Vin tranquille,Rosé,,Régional,3S001
 IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S001
-IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau rosé,Vin primeur,Rosé,,Régional,3S001
 IGP,Pays d'Oc,Pays d'Oc gris,Vin tranquille,Gris,,Régional,3S001
-IGP,Pays d'Oc,Pays d'Oc gris,Vin tranquille,Gris,,Régional,3S001
-IGP,Pays d'Oc,Pays d'Oc gris de gris,Vin tranquille,Gris,,Régional,3S001
 IGP,Pays d'Oc,Pays d'Oc gris de gris,Vin tranquille,Gris,,Régional,3S001
 IGP,Vicomté d'Aumelas,Vicomté d'Aumelas Vallée Dorée rouge,Vin tranquille,Rouge,,Zone,3R965
 IGP,Vicomté d'Aumelas,Vicomté d'Aumelas Vallée Dorée primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R965
@@ -620,14 +561,22 @@ IGP,Mont Caume,Mont Caume primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R832
 IGP,Var,Var mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R831M
 IGP,Var,Var rouge,Vin tranquille,Rouge,,Départemental,3R831
 IGP,Var,Var primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R831
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R821M
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne rouge,Vin tranquille,Rouge,,Régional,3R821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne rouge,Vin tranquille,Rouge,,Régional,3R821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R821
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R821
 IGP,Côtes du Tarn,Côtes du Tarn rouge,Vin tranquille,Rouge,,Zone,3R812
 IGP,Côtes du Tarn,Côtes du Tarn primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R812
-IGP,Vin des Allobroges,Vin des Allobroges rouge,Vin tranquille,Rouge,,Zone,3R732
+IGP,Île-de-France,Île-de-France Coteaux de Provins rouge,Vin tranquille,Rouge,,Départemental,3R755
+IGP,Île-de-France,Île-de-France Coteaux de Provins primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R755
+IGP,Île-de-France,Île-de-France Coteaux de Blunay rouge,Vin tranquille,Rouge,,Départemental,3R754
+IGP,Île-de-France,Île-de-France Coteaux de Blunay primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R754
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien rouge,Vin tranquille,Rouge,,Départemental,3R753
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R753
+IGP,Île-de-France,Île-de-France Île-de-France Guérard primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R752
+IGP,Île-de-France,Île-de-France Guérard rouge,Vin tranquille,Rouge,,Départemental,3R752
+IGP,Île-de-France,Île-de-France Paris rouge,Vin tranquille,Rosé,,Départemental,3R751
+IGP,Île-de-France,Île-de-France Paris primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R751
+IGP,Île-de-France,Île-de-France rouge,Vin tranquille,Rouge,,Départemental,3R750
+IGP,Île-de-France,Île-de-France primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R750
 IGP,Vin des Allobroges,Vin des Allobroges rouge,Vin tranquille,Rouge,,Zone,3R732
 IGP,Val de Loire,Val de Loire Sarthe rouge,Vin tranquille,Rouge,,Régional,3R721
 IGP,Val de Loire,Val de Loire Sarthe primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R721
@@ -673,22 +622,15 @@ IGP,Côtes Catalanes,Côtes Catalanes primeur ou nouveau rouge,Vin primeur,Rouge
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales rouge,Vin tranquille,Rouge,,Zone,3R661
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales rancio rouge,Vin tranquille,Rouge,,Zone,3R661
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R661
-IGP,Comté Tolosan,Comté Tolosan Bigorre mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R652M
-IGP,Comté Tolosan,Comté Tolosan Bigorre rouge,Vin tranquille,Rouge,,Régional,3R652
 IGP,Comté Tolosan,Comté Tolosan Bigorre rouge,Vin tranquille,Rouge,,Régional,3R652
 IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R652
-IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R652
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R641M
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques rouge,Vin tranquille,Rouge,,Régional,3R641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques rouge,Vin tranquille,Rouge,,Régional,3R641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R641
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R641
 IGP,Puy-de-Dôme,Puy-de-Dôme rouge,Vin tranquille,Rouge,,Départemental,3R631
 IGP,Puy-de-Dôme,Puy-de-Dôme primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R631
 IGP,Coteaux de Tannay,Coteaux de Tannay mousseux de qualité rouge,Vin mousseux,Rouge,,Zone,3R583M
 IGP,Coteaux de Tannay,Coteaux de Tannay rouge,Vin tranquille,Rouge,,Zone,3R583
 IGP,Coteaux de Tannay,Coteaux de Tannay primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R583
-IGP,Côtes de la Charité,Côtes de la Charité rouge,Vin tranquille,Rouge,,Zone,3R582
 IGP,Côtes de la Charité,Côtes de la Charité rouge,Vin tranquille,Rouge,,Zone,3R582
 IGP,Val de Loire,Val de Loire Nièvre rouge,Vin tranquille,Rouge,,Régional,3R581
 IGP,Val de Loire,Val de Loire Nièvre primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R581
@@ -771,10 +713,7 @@ IGP,Gers,Gers surmûri rosé,Vin de raisins surmuris,Rouge,,Départemental,3R321
 IGP,Gers,Gers mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R321M
 IGP,Gers,Gers rouge,Vin tranquille,Rouge,,Départemental,3R321
 IGP,Gers,Gers primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R321
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R311M
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne rouge,Vin tranquille,Rouge,,Régional,3R311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne rouge,Vin tranquille,Rouge,,Régional,3R311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R311
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R311
 IGP,Sable de Camargue,Sable de Camargue mousseux de qualité rouge,Vin mousseux,Rouge,,Zone,3R307M
 IGP,Sable de Camargue,Sable de Camargue rouge,Vin tranquille,Rouge,,Zone,3R307
@@ -815,15 +754,9 @@ IGP,Coteaux de l'Auxois,Coteaux de l'Auxois rouge,Vin tranquille,Rouge,,Zone,3R2
 IGP,Coteaux de l'Auxois,Coteaux de l'Auxois primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R212
 IGP,Ile de Beauté,Ile de Beauté rouge,Vin tranquille,Rouge,,Zone,3R202
 IGP,Ile de Beauté,Ile de Beauté primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R202
-IGP,Vins de la Corrèze,Vins de la Corrèze surmûri rouge,Vin de raisins surmuris,Rouge,,Départemental,3R191U
 IGP,Pays de Brive,Pays de Brive surmûri rouge,Vin de raisins surmuris,Rouge,,Départemental,3R191U
-IGP,Vins de la Corrèze,Vins de la Corrèze vin paillé vins de raisins surmûris rouge,Vin tranquille,Rouge,,Départemental,3R191L
-IGP,Vins de la Corrèze,Vins de la Corrèze passerillé rouge,Vin tranquille,Rouge,,Départemental,3R191l
-IGP,Vins de la Corrèze,Vins de la Corrèze rouge,Vin tranquille,Rouge,,Départemental,3R191
-IGP,Vins de la Corrèze,Vins de la Corrèze primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R191
 IGP,Pays de Brive,Pays de Brive rouge,Vin tranquille,Rouge,,Départemental,3R191
 IGP,Pays de Brive,Pays de Brive primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R191
-IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon rouge,Vin tranquille,Rouge,,Zone,3R182
 IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon rouge,Vin tranquille,Rouge,,Zone,3R182
 IGP,Val de Loire,Val de Loire Cher rouge,Vin tranquille,Rouge,,Régional,3R181
 IGP,Val de Loire,Val de Loire Cher primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R181
@@ -839,10 +772,7 @@ IGP,Charentais,Charentais Saint-Sornin rouge,Vin tranquille,Rouge,,Zone,3R163
 IGP,Charentais,Charentais Saint-Sornin rouge primeur ou nouveau,Vin primeur,Rouge,,Zone,3R163
 IGP,Charentais,Charentais Ile de Ré rouge,Vin tranquille,Rouge,,Zone,3R162
 IGP,Charentais,Charentais Ile de Ré rouge primeur ou nouveau,Vin primeur,Rouge,,Zone,3R162
-IGP,Comté Tolosan,Comté Tolosan Cantal mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R151M
 IGP,Comté Tolosan,Comté Tolosan Cantal rouge,Vin tranquille,Rouge,,Régional,3R151
-IGP,Comté Tolosan,Comté Tolosan Cantal rouge,Vin tranquille,Rouge,,Régional,3R151
-IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R151
 IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R151
 IGP,Calvados,Calvados Grisy rouge,Vin tranquille,Rouge,,Départemental,3R142
 IGP,Calvados,Calvados Grisy primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R142
@@ -877,15 +807,9 @@ IGP,Ariège,Ariège primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3
 IGP,Collines Rhodaniennes,Collines Rhodaniennes Mousseux de qualité rouge,Vin mousseux,Rouge,,Zone,3R073M
 IGP,Collines Rhodaniennes,Collines Rhodaniennes rouge,Vin tranquille,Rouge,,Zone,3R073
 IGP,Collines Rhodaniennes,Collines Rhodaniennes primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R073
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R072M
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche rouge,Vin tranquille,Rouge,,Départemental,3R072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche rouge,Vin tranquille,Rouge,,Départemental,3R072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R072
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R072
-IGP,Ardèche,Ardèche mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R071M
 IGP,Ardèche,Ardèche rouge,Vin tranquille,Rouge,,Départemental,3R071
-IGP,Ardèche,Ardèche rouge,Vin tranquille,Rouge,,Départemental,3R071
-IGP,Ardèche,Ardèche primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R071
 IGP,Ardèche,Ardèche primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R071
 IGP,Alpes-Maritimes,Alpes-Maritimes mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R061M
 IGP,Alpes-Maritimes,Alpes-Maritimes rouge,Vin tranquille,Rouge,,Départemental,3R061
@@ -903,8 +827,6 @@ IGP,Méditerranée,Méditérranée Comté de Grignan mousseux de qualité rouge,
 IGP,Méditerranée,Méditérranée Comté de Grignan rouge,Vin tranquille,Rouge,,Régional,3R033
 IGP,Méditerranée,Méditérranée Comté de Grignan primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R033
 IGP,Val de Loire,Val de Loire Allier rouge,Vin tranquille,Rouge,,Régional,3R031
-IGP,Val de Loire,Val de Loire Allier rouge,Vin tranquille,Rouge,,Régional,3R031
-IGP,Val de Loire,Val de Loire Allier primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R031
 IGP,Val de Loire,Val de Loire Allier primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R031
 IGP,Côtes du Tarn,Côtes du Tarn Cunac rouge,Vin tranquille,Rouge,,Zone,3R030
 IGP,Côtes du Tarn,Côtes du Tarn Cunac primeur ou nouveau rouge,Vin primeur,Rouge,,Zone,3R030
@@ -920,36 +842,22 @@ IGP,Ariège,Ariège Coteaux du Plantaurel primeur ou nouveau rouge,Vin primeur,R
 IGP,Ariège,Ariège Coteaux de la Lèze rouge,Vin tranquille,Rouge,,Départemental,3R016
 IGP,Ariège,Ariège Coteaux de la Lèze primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R016
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey rouge,Vin tranquille,Rouge,,Départemental,3R015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey rouge,Vin tranquille,Rouge,,Départemental,3R015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône rouge,Vin tranquille,Rouge,,Départemental,3R014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône rouge,Vin tranquille,Rouge,,Départemental,3R014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont rouge,Vin tranquille,Rouge,,Départemental,3R013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont rouge,Vin tranquille,Rouge,,Départemental,3R013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex rouge,Vin tranquille,Rouge,,Départemental,3R012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex rouge,Vin tranquille,Rouge,,Départemental,3R012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex Rouge Primeur ou Nouveau,Vin primeur,Rouge,,Départemental,3R012
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex Rouge Primeur ou Nouveau,Vin primeur,Rouge,,Départemental,3R012
 IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R011M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité rouge,Vin mousseux,Rouge,,Départemental,3R011M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain rouge,Vin tranquille,Rouge,,Départemental,3R011
 IGP,Coteaux de l'Ain,Coteaux de l'Ain rouge,Vin tranquille,Rouge,,Départemental,3R011
 IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R011
-IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R011
-IGP,Val de Loire,Val de Loire rouge,Vin tranquille,Rouge,,Régional,3R009
+IGP,Terres du Midi,Terres du Midi rouge,Vin tranquille,Rouge,,Départemental,3R010
+IGP,Terres du Midi,Terres du Midi primeur ou nouveau rouge,Vin primeur,Rouge,,Départemental,3R010
 IGP,Val de Loire,Val de Loire rouge,Vin tranquille,Rouge,,Régional,3R009
 IGP,Val de Loire,Val de Loire primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R009
 IGP,Atlantique,Atlantique rouge,Vin tranquille,Rouge,,Régional,3R008
@@ -958,19 +866,11 @@ IGP,Méditerranée,Méditerranée mousseux de qualité rouge,Vin mousseux,Rouge,
 IGP,Méditerranée,Méditerranée rouge,Vin tranquille,Rouge,,Régional,3R007
 IGP,Méditerranée,Méditerranée primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R007
 IGP,Comtés Rhodaniens,Comtés Rhodaniens rouge,Vin tranquille,Rouge,,Régional,3R004
-IGP,Comtés Rhodaniens,Comtés Rhodaniens rouge,Vin tranquille,Rouge,,Régional,3R004
-IGP,Comté Tolosan,Comté Tolosan mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R003M
-IGP,Comté Tolosan,Comté Tolosan rouge,Vin tranquille,Rouge,,Régional,3R003
 IGP,Comté Tolosan,Comté Tolosan rouge,Vin tranquille,Rouge,,Régional,3R003
 IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R003
-IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R003
-IGP,Pays d'Oc,Pays d'Oc surmûris rouge,Vin de raisins surmuris,Rouge,,Régional,3R001U
 IGP,Pays d'Oc,Pays d'Oc surmûris rouge,Vin de raisins surmuris,Rouge,,Régional,3R001U
 IGP,Pays d'Oc,Pays d'Oc mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R001M
-IGP,Pays d'Oc,Pays d'Oc mousseux de qualité rouge,Vin mousseux,Rouge,,Régional,3R001M
 IGP,Pays d'Oc,Pays d'Oc rouge,Vin tranquille,Rouge,,Régional,3R001
-IGP,Pays d'Oc,Pays d'Oc rouge,Vin tranquille,Rouge,,Régional,3R001
-IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R001
 IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau rouge,Vin primeur,Rouge,,Régional,3R001
 IGP,Vicomté d'Aumelas,Vicomté d'Aumelas Vallée Dorée primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B965
 IGP,Vicomté d'Aumelas,Vicomté d'Aumelas Vallée Dorée blanc,Vin tranquille,Blanc,,Zone,3B965
@@ -1068,31 +968,31 @@ IGP,Var,Var mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B831M
 IGP,Var,Var primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B831
 IGP,Var,Var blanc,Vin tranquille,Blanc,,Départemental,3B831
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B824U
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B824U
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B824M
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B824M
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B824
-IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban blanc,Vin tranquille,Blanc,,Régional,3B824
 IGP,Comté Tolosan,Comté Tolosan Coteaux et Terrasses de Montauban blanc,Vin tranquille,Blanc,,Régional,3B824
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B821U
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B821U
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B821M
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B821M
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B821
-IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne blanc,Vin tranquille,Blanc,,Régional,3B821
 IGP,Comté Tolosan,Comté Tolosan Tarn et Garonne blanc,Vin tranquille,Blanc,,Régional,3B821
 IGP,Côtes du Tarn,Côtes du Tarn primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B812
 IGP,Côtes du Tarn,Côtes du Tarn blanc,Vin tranquille,Blanc,,Zone,3B812
 IGP,Côtes du Tarn,Côtes du Tarn Blanc Surmûri,Vin de raisins surmuris,Blanc,,Zone,3B812
-IGP,Vin des Allobroges,Vin des Allobroges surmûris blanc,Vin tranquille,Blanc,,Zone,3B732U
+IGP,Île-de-France,Île-de-France Coteaux de Provins primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B755
+IGP,Île-de-France,Île-de-France Coteaux de Provins blanc,Vin tranquille,Blanc,,Départemental,3B755
+IGP,Île-de-France,Île-de-France Coteaux de Blunay primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B754
+IGP,Île-de-France,Île-de-France Coteaux de Blunay blanc,Vin tranquille,Blanc,,Départemental,3B754
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B753
+IGP,Île-de-France,Île-de-France Coteaux de Suresne-Mont-Valérien blanc,Vin tranquille,Blanc,,Départemental,3B753
+IGP,Île-de-France,Île-de-France Île-de-France Guérard primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B752
+IGP,Île-de-France,Île-de-France Guérard blanc,Vin tranquille,Blanc,,Départemental,3B752
+IGP,Île-de-France,Île-de-France Paris primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B751
+IGP,Île-de-France,Île-de-France Paris blanc,Vin tranquille,Blanc,,Départemental,3B751
+IGP,Île-de-France,Île-de-France primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B750
+IGP,Île-de-France,Île-de-France blanc,Vin tranquille,Blanc,,Départemental,3B750
 IGP,Vin des Allobroges,Vin des Allobroges surmûris blanc,Vin tranquille,Blanc,,Zone,3B732U
 IGP,Vin des Allobroges,Vin des Allobroges mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B732M
-IGP,Vin des Allobroges,Vin des Allobroges mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B732M
 IGP,Vin des Allobroges,Vin des Allobroges passerillé blancs,Vin tranquille,Blanc,,Zone,3B732I
-IGP,Vin des Allobroges,Vin des Allobroges passerillé blancs,Vin tranquille,Blanc,,Zone,3B732I
-IGP,Vin des Allobroges,Vin des Allobroges blanc,Vin tranquille,Blanc,,Zone,3B732
 IGP,Vin des Allobroges,Vin des Allobroges blanc,Vin tranquille,Blanc,,Zone,3B732
 IGP,Val de Loire,Val de Loire Sarthe primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B721
 IGP,Val de Loire,Val de Loire Sarthe blanc,Vin tranquille,Blanc,,Régional,3B721
@@ -1138,20 +1038,12 @@ IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales rancio blanc,Vin tra
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B661
 IGP,Côtes Catalanes,Côtes Catalanes Pyrénées Orientales blanc,Vin tranquille,Blanc,,Zone,3B661
 IGP,Comté Tolosan,Comté Tolosan Bigorre surmûri blanc,Vin tranquille,Blanc,,Régional,3B652U
-IGP,Comté Tolosan,Comté Tolosan Bigorre surmûri blanc,Vin tranquille,Blanc,,Régional,3B652U
-IGP,Comté Tolosan,Comté Tolosan Bigorre mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B652M
 IGP,Comté Tolosan,Comté Tolosan Bigorre mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B652M
 IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B652
-IGP,Comté Tolosan,Comté Tolosan Bigorre primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B652
-IGP,Comté Tolosan,Comté Tolosan Bigorre blanc,Vin tranquille,Blanc,,Régional,3B652
 IGP,Comté Tolosan,Comté Tolosan Bigorre blanc,Vin tranquille,Blanc,,Régional,3B652
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B641U
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B641U
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B641M
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B641M
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B641
-IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques blanc,Vin tranquille,Blanc,,Régional,3B641
 IGP,Comté Tolosan,Comté Tolosan Pyrénées Atlantiques blanc,Vin tranquille,Blanc,,Régional,3B641
 IGP,Puy-de-Dôme,Puy-de-Dôme primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B631
 IGP,Puy-de-Dôme,Puy-de-Dôme blanc,Vin tranquille,Blanc,,Départemental,3B631
@@ -1159,8 +1051,6 @@ IGP,Coteaux de Tannay,Coteaux de Tannay mousseux de qualité blanc,Vin mousseux,
 IGP,Coteaux de Tannay,Coteaux de Tannay primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B583
 IGP,Coteaux de Tannay,Coteaux de Tannay blanc,Vin tranquille,Blanc,,Zone,3B583
 IGP,Côtes de la Charité,Côtes de la Charité mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B582M
-IGP,Côtes de la Charité,Côtes de la Charité mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B582M
-IGP,Côtes de la Charité,Côtes de la Charité blanc,Vin tranquille,Blanc,,Zone,3B582
 IGP,Côtes de la Charité,Côtes de la Charité blanc,Vin tranquille,Blanc,,Zone,3B582
 IGP,Val de Loire,Val de Loire Nièvre primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B581
 IGP,Val de Loire,Val de Loire Nièvre blanc,Vin tranquille,Blanc,,Régional,3B581
@@ -1254,12 +1144,8 @@ IGP,Gers,Gers mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B32
 IGP,Gers,Gers primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B321
 IGP,Gers,Gers blanc,Vin tranquille,Blanc,,Départemental,3B321
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B311U
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B311U
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B311M
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B311M
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B311
-IGP,Comté Tolosan,Comté Tolosan Haute-Garonne blanc,Vin tranquille,Blanc,,Régional,3B311
 IGP,Comté Tolosan,Comté Tolosan Haute-Garonne blanc,Vin tranquille,Blanc,,Régional,3B311
 IGP,Sable de Camargue,Sable de Camargue mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B307M
 IGP,Sable de Camargue,Sable de Camargue sur lie blanc,Vin sur lie,Blanc,,Zone,3B307
@@ -1302,16 +1188,9 @@ IGP,Coteaux de l'Auxois,Coteaux de l'Auxois primeur ou nouveau blanc,Vin primeur
 IGP,Coteaux de l'Auxois,Coteaux de l'Auxois blanc,Vin tranquille,Blanc,,Zone,3B212
 IGP,Ile de Beauté,Ile de Beauté primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B202
 IGP,Ile de Beauté,Ile de Beauté blanc,Vin tranquille,Blanc,,Zone,3B202
-IGP,Vins de la Corrèze,Vins de la Corrèze surmûri blanc,Vin de raisins surmuris,Blanc,,Départemental,3B191U
 IGP,Pays de Brive,Pays de Brive surmûri blanc,Vin de raisins surmuris,Blanc,,Départemental,3B191U
-IGP,Vins de la Corrèze,Vins de la Corrèze mousseux blanc,Vin mousseux,Blanc,,Départemental,3B191M
-IGP,Vins de la Corrèze,Vins de la Corrèze vin paillé vins de raisins surmûris blanc,Vin tranquille,Blanc,,Départemental,3B191L
-IGP,Vins de la Corrèze,Vins de la Corrèze passerillé blanc,Vin tranquille,Blanc,,Départemental,3B191l
-IGP,Vins de la Corrèze,Vins de la Corrèze primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B191
-IGP,Vins de la Corrèze,Vins de la Corrèze blanc,Vin tranquille,Blanc,,Départemental,3B191
 IGP,Pays de Brive,Pays de Brive primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B191
 IGP,Pays de Brive,Pays de Brive blanc,Vin tranquille,Blanc,,Départemental,3B191
-IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon blanc,Vin tranquille,Blanc,,Zone,3B182
 IGP,Coteaux du Cher et de l'Arnon,Coteaux du Cher et de l'Arnon blanc,Vin tranquille,Blanc,,Zone,3B182
 IGP,Val de Loire,Val de Loire Cher primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B181
 IGP,Val de Loire,Val de Loire Cher blanc,Vin tranquille,Blanc,,Régional,3B181
@@ -1328,12 +1207,8 @@ IGP,Charentais,Charentais Saint-Sornin blanc primeur ou nouveau,Vin primeur,Blan
 IGP,Charentais,Charentais Ile de Ré blanc,Vin tranquille,Blanc,,Zone,3B162
 IGP,Charentais,Charentais Ile de Ré blanc primeur ou nouveau,Vin tranquille,Blanc,,Zone,3B162
 IGP,Comté Tolosan,Comté Tolosan Cantal surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B151U
-IGP,Comté Tolosan,Comté Tolosan Cantal surmûri blanc,Vin de raisins surmuris,Blanc,,Régional,3B151U
-IGP,Comté Tolosan,Comté Tolosan Cantal mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B151M
 IGP,Comté Tolosan,Comté Tolosan Cantal mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B151M
 IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B151
-IGP,Comté Tolosan,Comté Tolosan Cantal primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B151
-IGP,Comté Tolosan,Comté Tolosan Cantal blanc,Vin tranquille,Blanc,,Régional,3B151
 IGP,Comté Tolosan,Comté Tolosan Cantal blanc,Vin tranquille,Blanc,,Régional,3B151
 IGP,Calvados,Calvados Grisy primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B142
 IGP,Calvados,Calvados Grisy blanc,Vin tranquille,Blanc,,Départemental,3B142
@@ -1369,15 +1244,9 @@ IGP,Ariège,Ariège blanc,Vin tranquille,Blanc,,Départemental,3B091
 IGP,Collines Rhodaniennes,Collines Rhodaniennes Mousseux de qualité blanc,Vin mousseux,Blanc,,Zone,3B073M
 IGP,Collines Rhodaniennes,Collines Rhodaniennes primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B073
 IGP,Collines Rhodaniennes,Collines Rhodaniennes blanc,Vin tranquille,Blanc,,Zone,3B073
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B072M
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B072
 IGP,Ardèche,Ardèche Coteaux de l'Ardèche blanc,Vin tranquille,Blanc,,Départemental,3B072
-IGP,Ardèche,Ardèche Coteaux de l'Ardèche blanc,Vin tranquille,Blanc,,Départemental,3B072
-IGP,Ardèche,Ardèche mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B071M
 IGP,Ardèche,Ardèche primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B071
-IGP,Ardèche,Ardèche primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B071
-IGP,Ardèche,Ardèche blanc,Vin tranquille,Blanc,,Départemental,3B071
 IGP,Ardèche,Ardèche blanc,Vin tranquille,Blanc,,Départemental,3B071
 IGP,Alpes-Maritimes,Alpes-Maritimes mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B061M
 IGP,Alpes-Maritimes,Alpes-Maritimes primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B061
@@ -1394,8 +1263,6 @@ IGP,Méditerranée,Méditérranée Comté de Grignan mousseux de qualité blanc,
 IGP,Méditerranée,Méditérranée Comté de Grignan primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B033
 IGP,Méditerranée,Méditérranée Comté de Grignan blanc,Vin tranquille,Blanc,,Régional,3B033
 IGP,Val de Loire,Val de Loire Allier primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B031
-IGP,Val de Loire,Val de Loire Allier primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B031
-IGP,Val de Loire,Val de Loire Allier blanc,Vin tranquille,Blanc,,Régional,3B031
 IGP,Val de Loire,Val de Loire Allier blanc,Vin tranquille,Blanc,,Régional,3B031
 IGP,Côtes du Tarn,Côtes du Tarn Cunac surmûri blanc,Vin de raisins surmuris,Blanc,,Zone,3B030U
 IGP,Côtes du Tarn,Côtes du Tarn Cunac primeur ou nouveau blanc,Vin primeur,Blanc,,Zone,3B030
@@ -1415,37 +1282,23 @@ IGP,Ariège,Ariège Coteaux de la Lèze surmûri blanc,Vin de raisins surmuris,B
 IGP,Ariège,Ariège Coteaux de la Lèze primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B016
 IGP,Ariège,Ariège Coteaux de la Lèze blanc,Vin tranquille,Blanc,,Départemental,3B016
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B015M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B015
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey blanc,Vin tranquille,Blanc,,Départemental,3B015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Valromey blanc,Vin tranquille,Blanc,,Départemental,3B015
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B014M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B014
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône blanc,Vin tranquille,Blanc,,Départemental,3B014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Val de Saône blanc,Vin tranquille,Blanc,,Départemental,3B014
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B013M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B013
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont blanc,Vin tranquille,Blanc,,Départemental,3B013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Revermont blanc,Vin tranquille,Blanc,,Départemental,3B013
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B012M
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B012
-IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex blanc,Vin tranquille,Blanc,,Départemental,3B012
 IGP,Coteaux de l'Ain,Coteaux de l'Ain Pays de Gex blanc,Vin tranquille,Blanc,,Départemental,3B012
 IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B011M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain mousseux de qualité blanc,Vin mousseux,Blanc,,Départemental,3B011M
-IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B011
 IGP,Coteaux de l'Ain,Coteaux de l'Ain primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B011
 IGP,Coteaux de l'Ain,Coteaux de l'Ain blanc,Vin tranquille,Blanc,,Départemental,3B011
-IGP,Coteaux de l'Ain,Coteaux de l'Ain blanc,Vin tranquille,Blanc,,Départemental,3B011
+IGP,Terres du Midi,Terres du Midi primeur ou nouveau blanc,Vin primeur,Blanc,,Départemental,3B010
+IGP,Terres du Midi,Terres du Midi blanc,Vin tranquille,Blanc,,Départemental,3B010
 IGP,Val de Loire,Val de Loire primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B009
-IGP,Val de Loire,Val de Loire blanc,Vin tranquille,Blanc,,Régional,3B009
 IGP,Val de Loire,Val de Loire blanc,Vin tranquille,Blanc,,Régional,3B009
 IGP,Atlantique,Atlantique primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B008
 IGP,Atlantique,Atlantique blanc,Vin tranquille,Blanc,,Régional,3B008
@@ -1453,24 +1306,14 @@ IGP,Méditerranée,Méditerranée mousseux de qualité blanc,Vin mousseux,Blanc,
 IGP,Méditerranée,Méditerranée primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B007
 IGP,Méditerranée,Méditerranée blanc,Vin tranquille,Blanc,,Régional,3B007
 IGP,Comtés Rhodaniens,Comtés Rhodaniens blanc,Vin tranquille,Blanc,,Régional,3B004
-IGP,Comtés Rhodaniens,Comtés Rhodaniens blanc,Vin tranquille,Blanc,,Régional,3B004
-IGP,Comté Tolosan,Comté Tolosan surmûri blanc,Vin tranquille,Blanc,,Régional,3B003U
 IGP,Comté Tolosan,Comté Tolosan surmûri blanc,Vin tranquille,Blanc,,Régional,3B003U
 IGP,Comté Tolosan,Comté Tolosan mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B003M
-IGP,Comté Tolosan,Comté Tolosan mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B003M
-IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B003
 IGP,Comté Tolosan,Comté Tolosan primeur ou nouveau blanc,Vin primeur,Blanc,,Régional,3B003
 IGP,Comté Tolosan,Comté Tolosan blanc,Vin tranquille,Blanc,,Régional,3B003
-IGP,Comté Tolosan,Comté Tolosan blanc,Vin tranquille,Blanc,,Régional,3B003
-IGP,Pays d'Oc,Pays d'Oc surmûris blanc,Vin de raisins surmuris,Blanc,,Régional,3B001U
 IGP,Pays d'Oc,Pays d'Oc surmûris blanc,Vin de raisins surmuris,Blanc,,Régional,3B001U
 IGP,Pays d'Oc,Pays d'Oc mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B001M
-IGP,Pays d'Oc,Pays d'Oc mousseux de qualité blanc,Vin mousseux,Blanc,,Régional,3B001M
-IGP,Pays d'Oc,Pays d'Oc sur lie blanc,Vin sur lie,Blanc,,Régional,3B001
 IGP,Pays d'Oc,Pays d'Oc sur lie blanc,Vin sur lie,Blanc,,Régional,3B001
 IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau blanc,Vin tranquille,Blanc,,Régional,3B001
-IGP,Pays d'Oc,Pays d'Oc primeur ou nouveau blanc,Vin tranquille,Blanc,,Régional,3B001
-IGP,Pays d'Oc,Pays d'Oc blanc,Vin tranquille,Blanc,,Régional,3B001
 IGP,Pays d'Oc,Pays d'Oc blanc,Vin tranquille,Blanc,,Régional,3B001
 AOC,Fiefs Vendéens,Fiefs Vendéens Chantonnay rosé,Vin tranquille,Rosé,Sec,,1S728S
 AOC,Saint-Sardos,Saint-Sardos rosé,Vin tranquille,Rosé,Sec,,1S727S
@@ -1482,10 +1325,7 @@ AOC,Brulhois,Brulhois rosé,Vin tranquille,Rosé,Sec,,1S722S
 AOC,Saint-Mont,Saint-Mont rosé,Vin tranquille,Rosé,Sec,,1S721S
 AOC,Côtes de Millau,Côtes de Millau rosé,Vin tranquille,Rosé,Sec,,1S720S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne Corent rosé,Vin tranquille,Rosé,Sec,,1S718S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne Corent rosé,Vin tranquille,Rosé,Sec,,1S718S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne rosé,Vin tranquille,Rosé,Sec,,1S714S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne rosé,Vin tranquille,Rosé,Sec,,1S714S
-AOC,Haut-Poitou,Haut-Poitou rosé,Vin tranquille,Rosé,Sec,,1S713S
 AOC,Haut-Poitou,Haut-Poitou rosé,Vin tranquille,Rosé,Sec,,1S713S
 AOC,Fiefs Vendéens,Fiefs Vendéens Vix rosé,Vin tranquille,Rosé,Sec,,1S712S
 AOC,Fiefs Vendéens,Fiefs Vendéens Pissotte rosé,Vin tranquille,Rosé,Sec,,1S711S
@@ -1495,14 +1335,12 @@ AOC,Coteaux d'Ancenis,Coteaux d'Ancenis rosé,Vin tranquille,Rosé,Sec,,1S707S
 AOC,Moselle,Moselle rosé,Vin tranquille,Rosé,Sec,,1S706S
 AOC,Châteaumeillant,Châteaumeillant gris,Vin tranquille,Rosé,Sec,,1S700
 AOC,Floc de Gascogne,Floc de Gascogne rosé,Vin de liqueur,Rosé,Doux,,1S610Z
-AOC,Pineau des Charentes ou Pineau Charentais,Pineau des Charentes rosé ou rouge,Vin de liqueur,Rosé,Doux,,1S600Z
-AOC,Côtes de Provence,Côtes de Provence Pierrefeu rosé,Vin tranquille,Rosé,Sec,,1S595S
+AOC,Pineau des Charentes,Pineau des Charentes rosé,Vin de liqueur,Rosé,Doux,,1S600Z
+AOC,Pineau des Charentes,Pineau des Charentes rosé ou rouge,Vin de liqueur,Rosé,Doux,,1S600Z
+AOC,Côtes de Provence,Côtes de Provence Notre-Dame des Anges rosé,Vin tranquille,Rosé,Sec,,1S596S
 AOC,Côtes de Provence,Côtes de Provence Pierrefeu rosé,Vin tranquille,Rosé,Sec,,1S595S
 AOC,Côtes de Provence,Côtes de Provence la Londe rosé,Vin tranquille,Rosé,Sec,,1S594S
-AOC,Côtes de Provence,Côtes de Provence la Londe rosé,Vin tranquille,Rosé,Sec,,1S594S
 AOC,Côtes de Provence,Côtes de Provence Fréjus rosé,Vin tranquille,Rosé,Sec,,1S593S
-AOC,Côtes de Provence,Côtes de Provence Fréjus rosé,Vin tranquille,Rosé,Sec,,1S593S
-AOC,Côtes de Provence,Côtes de Provence Sainte-Victoire rosé,Vin tranquille,Rosé,Sec,,1S592S
 AOC,Côtes de Provence,Côtes de Provence Sainte-Victoire rosé,Vin tranquille,Rosé,Sec,,1S592S
 AOC,Les Baux de Provence,Les Baux de Provence rosé,Vin tranquille,Rosé,Sec,,1S591S
 AOC,Vin de Corse ou Corse,Vin de Corse ou Corse Sartène rosé,Vin tranquille,Rosé,Sec,,1S590S
@@ -1514,8 +1352,6 @@ AOC,Vin de Corse ou Corse,Vin de Corse ou Corse rosé,Vin tranquille,Rosé,Sec,,
 AOC,Patrimonio,Patrimonio rosé,Vin tranquille,Rosé,Sec,,1S584S
 AOC,Palette,Palette rosé,Vin tranquille,Rosé,Sec,,1S583S
 AOC,Côtes de Provence,Côtes de Provence rosé,Vin tranquille,Rosé,Sec,,1S582S
-AOC,Côtes de Provence,Côtes de Provence rosé,Vin tranquille,Rosé,Sec,,1S582S
-AOC,Coteaux varois en Provence,Coteaux varois en Provence rosé,Vin tranquille,Rosé,Sec,,1S581S
 AOC,Coteaux varois en Provence,Coteaux varois en Provence rosé,Vin tranquille,Rosé,Sec,,1S581S
 AOC,Coteaux d'Aix-en-Provence,Coteaux d'Aix-en-Provence rosé,Vin tranquille,Rosé,Sec,,1S579S
 AOC,Cassis,Cassis rosé,Vin tranquille,Rosé,Sec,,1S578S
@@ -1529,56 +1365,37 @@ AOC,Grignan-les-Adhémar,Grignan-les-Adhémar rosé,Vin tranquille,Rosé,Sec,,1S
 AOC,Vacqueyras,Vacqueyras rosé,Vin tranquille,Rosé,Sec,,1S538S
 AOC,Tavel,Tavel,Vin tranquille,Rosé,Sec,,1S537S
 AOC,Lirac,Lirac rosé,Vin tranquille,Rosé,Sec,,1S536S
-AOC,Lirac,Lirac rosé,Vin tranquille,Rosé,Sec,,1S536S
-AOC,Gigondas,Gigondas rosé,Vin tranquille,Rosé,Sec,,1S535S
 AOC,Gigondas,Gigondas rosé,Vin tranquille,Rosé,Sec,,1S535S
 AOC,Ventoux,Ventoux primeur ou nouveau rosé,Vin primeur,Rosé,Sec,,1S534S01
 AOC,Ventoux,Ventoux rosé,Vin tranquille,Rosé,Sec,,1S534S
 AOC,Luberon,Luberon rosé,Vin tranquille,Rosé,Sec,,1S533S
-AOC,Luberon,Luberon rosé,Vin tranquille,Rosé,Sec,,1S533S
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan rosé,Vin tranquille,Rosé,Sec,Villages,1S531S16
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan rosé,Vin tranquille,Rosé,Sec,Villages,1S531S16
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas rosé,Vin tranquille,Rosé,Sec,Villages,1S531S15
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas rosé,Vin tranquille,Rosé,Sec,Villages,1S531S15
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret rosé,Vin tranquille,Rosé,Sec,Villages,1S531S14
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret rosé,Vin tranquille,Rosé,Sec,Villages,1S531S14
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais rosé,Vin tranquille,Rosé,Sec,Villages,1S531S13
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais rosé,Vin tranquille,Rosé,Sec,Villages,1S531S13
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet rosé,Vin tranquille,Rosé,Sec,Villages,1S531S12
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet rosé,Vin tranquille,Rosé,Sec,Villages,1S531S12
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix rosé,Vin tranquille,Rosé,Sec,Villages,1S531S11
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix rosé,Vin tranquille,Rosé,Sec,Villages,1S531S11
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun rosé,Vin tranquille,Rosé,Sec,Villages,1S531S09
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun rosé,Vin tranquille,Rosé,Sec,Villages,1S531S09
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Chusclan rosé,Vin tranquille,Rosé,Sec,Villages,1S531S08
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Chusclan rosé,Vin tranquille,Rosé,Sec,Villages,1S531S08
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Cairanne rosé,Vin tranquille,Rosé,Sec,Villages,1S531S07
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes rosé,Vin tranquille,Rosé,Sec,Villages,1S531 04
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes rosé,Vin tranquille,Rosé,Sec,Villages,1S531 04
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice rosé,Vin tranquille,Rosé,Sec,Villages,1S531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice rosé,Vin tranquille,Rosé,Sec,Villages,1S531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes rosé,Vin tranquille,Rosé,Sec,Villages,1S531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes rosé,Vin tranquille,Rosé,Sec,Villages,1S531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude rosé,Vin tranquille,Rosé,Sec,Villages,1S531 01
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude rosé,Vin tranquille,Rosé,Sec,Villages,1S531 01
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages rosé,Vin tranquille,Rosé,Sec,Villages,1S531
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages rosé,Vin tranquille,Rosé,Sec,Villages,1S531
 AOC,Côtes du Rhône,Côtes du Rhône primeur ou nouveau rosé,Vin primeur,Rosé,Sec,,1S530 01
-AOC,Côtes du Rhône,Côtes du Rhône primeur ou nouveau rosé,Vin primeur,Rosé,Sec,,1S530 01
-AOC,Côtes du Rhône,Côtes du Rhône rosé,Vin tranquille,Rosé,Sec,,1S530
 AOC,Côtes du Rhône,Côtes du Rhône rosé,Vin tranquille,Rosé,Sec,,1S530
 AOC,Pierrevert,Pierrevert rosé,Vin tranquille,Rosé,Sec,,1S529S
 AOC,Clairette de Die,Clairette de Die méthode ancestrale rosé,Vin mousseux Méthode ancestrale,Rosé,Doux,,1S523M 2
-AOC,Châtillon-en-Diois,Châtillon-en-Diois rosé,Vin tranquille,Rosé,Sec,,1S522
 AOC,Châtillon-en-Diois,Châtillon-en-Diois rosé,Vin tranquille,Rosé,Sec,,1S522
 AOC,Côtes du Vivarais,Côtes du Vivarais rosé,Vin tranquille,Rosé,Sec,,1S521
 AOC,Malepère,Malepère rosé,Vin tranquille,Rosé,Sec,,1S519
 AOC,Saint-Chinian,Saint-Chinian rosé,Vin tranquille,Rosé,Sec,,1S518
 AOC,Minervois,Minervois rosé,Vin tranquille,Rosé,Sec,,1S517
 AOC,Faugères,Faugères rosé,Vin tranquille,Rosé,Sec,,1S515
+AOC,Languedoc,Languedoc Saint-Saturnin rosé,Vin tranquille,Rosé,Sec (usage),,1S506
 AOC,Languedoc,Languedoc Saint-Georges-d'Orques rosé,Vin tranquille,Rosé,Sec (usage),,1S505
-AOC,Languedoc,Languedoc Pic-Saint-Loup rosé,Vin tranquille,Rosé,Sec (usage),,1S500
-AOC,Languedoc,Languedoc Montpeyroux rosé,Vin tranquille,Rosé,Sec (usage),,1S499
+AOC,Languedoc,Languedoc Saint-Christol rosé,Vin tranquille,Rosé,Sec (usage),,1S503
+AOC,Languedoc,Languedoc La Méjanelle rosé,Vin tranquille,Rosé,Sec (usage),,1S498
 AOC,Languedoc,Languedoc Cabrières rosé,Vin tranquille,Rosé,Sec (usage),,1S496
 AOC,Languedoc,Languedoc primeur ou nouveau rosé,Vin primeur,Rosé,Sec (usage),,1S495 01
 AOC,Languedoc,Languedoc rosé,Vin tranquille,Rosé,Sec (usage),,1S495
@@ -1586,10 +1403,7 @@ AOC,Corbières,Corbières rosé,Vin tranquille,Rosé,Sec,,1S493
 AOC,Cabardès,Cabardès rosé,Vin tranquille,Rosé,Sec,,1S492
 AOC,Collioure,Collioure rosé,Vin tranquille,Rosé,Doux,,1S489S
 AOC,Crémant de Limoux,Crémant de Limoux rosé,Vin mousseux Crémant,Rosé,,,1S484M
-AOC,Crémant de Limoux,Crémant de Limoux rosé,Vin mousseux Crémant,Rosé,,,1S484M
 AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur rosé,Vin primeur,Rosé,Sec,,1S480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur rosé,Vin primeur,Rosé,Sec,,1S480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon rosé,Vin tranquille,Rosé,Sec,,1S480S
 AOC,Côtes du Roussillon,Côtes du Roussillon rosé,Vin tranquille,Rosé,Sec,,1S480S
 AOC,Pic Saint-Loup,Pic Saint-Loup rosé,Vin tranquille,Rosé,Sec,,1S479
 AOC,Bugey,Bugey Cerdon méthode ancestrale,Vin mousseux Méthode ancestrale,Rosé,,,1S461M
@@ -1599,6 +1413,7 @@ AOC,Bugey,Bugey mousseux rosé,Vin mousseux,Rosé,,,1S460M01
 AOC,Vin de Savoie ou Savoie,Vin de Savoie ou Savoie rosé,Vin tranquille,Rosé,Sec,,1S437S
 AOC,Vin de Savoie ou Savoie,Vin de Savoie pétillant rosé,Vin pétillant,Rosé,,,1S437P 1
 AOC,Vin de Savoie ou Savoie,Vin de Savoie mousseux rosé,Vin mousseux,Rosé,,,1S437M 1
+AOC,Vin de Savoie ou Savoie,Vin de Savoie mousseux de qualité rosé,Vin mousseux,Rosé,,,1S437M 1
 AOC,Saint-Pourçain,Saint-Pourçain rosé,Vin tranquille,Rosé,Sec,,1S430S
 AOC,Marsannay,Marsannay rosé,Vin tranquille,Rosé,Sec,,1S389
 AOC,Mâcon,Mâcon Verzé rosé,Vin tranquille,Rosé,Sec,,1S371 91
@@ -1704,6 +1519,7 @@ AOC,Beaujolais,Beaujolais Beaujeu rosé nouveau ou primeur,Vin primeur,Rosé,Sec
 AOC,Beaujolais,Beaujolais Beaujeu rosé,Vin tranquille,Rosé,Sec,Villages,1S301 01
 AOC,Beaujolais,Beaujolais Villages rosé nouveau ou primeur,Vin primeur,Rosé,Sec,Villages,1S301 00
 AOC,Beaujolais,Beaujolais Villages rosé,Vin tranquille,Rosé,Sec,Villages,1S301
+AOC,Beaujolais,Beaujolais rosé nouveau ou primeur,Vin primeur,Rosé,Sec,,1S300 01
 AOC,Beaujolais,Beaujolais rosé  nouveau ou primeur,Vin primeur,Rosé,Sec,,1S300 01
 AOC,Beaujolais,Beaujolais rosé,Vin tranquille,Rosé,Sec,,1S300
 AOC,Crémant du Jura,Crémant du Jura rosé,Vin mousseux Crémant,Rosé,,,1S267M
@@ -1722,27 +1538,18 @@ AOC,Valençay,Valençay rosé,Vin tranquille,Rosé,Sec,,1S233S
 AOC,Cheverny,Cheverny rosé,Vin tranquille,Rosé,Sec,,1S231S
 AOC,Coteaux du Loir,Coteaux du Loir rosé,Vin tranquille,Rosé,Sec,,1S223S
 AOC,Chinon,Chinon rosé,Vin tranquille,Rosé,Sec,,1S222S
-AOC,Chinon,Chinon rosé,Vin tranquille,Rosé,Sec,,1S222S
-AOC,Saint-Nicolas-de-Bourgueil,Saint-Nicolas-de-Bourgueil rosé,Vin tranquille,Rosé,Sec,,1S221S
 AOC,Saint-Nicolas-de-Bourgueil,Saint-Nicolas-de-Bourgueil rosé,Vin tranquille,Rosé,Sec,,1S221S
 AOC,Bourgueil,Bourgueil rosé,Vin tranquille,Rosé,Sec,,1S220S
 AOC,Coteaux du Vendômois,Coteaux du Vendômois gris,Vin tranquille,Gris,Sec,,1S218S
 AOC,Crémant de Loire,Crémant de Loire rosé,Vin mousseux Crémant,Rosé,,,1S215M
 AOC,Rosé de Loire,Rosé de Loire,Vin tranquille,Rosé,Sec,,1S209S
-AOC,Cabernet de Saumur,Cabernet de Saumur nouveau ou primeur,Vin primeur,Rosé,,,1S207 01
-AOC,Cabernet de Saumur,Cabernet de Saumur,Vin tranquille,Rosé,,,1S207
 AOC,Saumur,Saumur primeur ou nouveau rosé,Vin primeur,Rosé,,,1S206 01
 AOC,Saumur,Saumur rosé,Vin tranquille,Rosé,,,1S206
 AOC,Saumur,Saumur mousseux rosé,Vin mousseux,Rosé,,,1S205M 1
-AOC,Saumur,Saumur mousseux rosé,Vin mousseux,Rosé,,,1S205M 1
 AOC,Cabernet d'Anjou,Cabernet d'Anjou nouveau ou primeur,Vin primeur,Rosé,,,1S201D03
 AOC,Cabernet d'Anjou,Cabernet d'Anjou,Vin tranquille,Rosé,,,1S201D
-AOC,Cabernet d'Anjou,Cabernet d'Anjou,Vin tranquille,Rosé,,,1S201D
-AOC,Anjou,Anjou mousseux rosé,Vin mousseux,Rosé,,,1S200M 1
 AOC,Anjou,Anjou mousseux rosé,Vin mousseux,Rosé,,,1S200M 1
 AOC,Rosé d'Anjou,Rosé d'Anjou nouveau ou primeur,Vin primeur,Rosé,Doux,,1S200D03
-AOC,Rosé d'Anjou,Rosé d'Anjou nouveau ou primeur,Vin primeur,Rosé,Doux,,1S200D03
-AOC,Rosé d'Anjou,Rosé d'Anjou,Vin tranquille,Rosé,Doux,,1S200D
 AOC,Rosé d'Anjou,Rosé d'Anjou,Vin tranquille,Rosé,Doux,,1S200D
 AOC,Orléans,Orléans rosé,Vin tranquille,Rosé,Sec,,1S198
 AOC,Coteaux du Giennois,Coteaux du Giennois rosé,Vin tranquille,Rosé,Sec,,1S197S
@@ -1753,11 +1560,8 @@ AOC,Rasteau,Rasteau rosé,Vin doux naturel,Rosé,Doux,,1S187N
 AOC,Muscat de Beaumes-de-Venise,Muscat de Beaumes-de-Venise rosé,Vin doux naturel,Rosé,Doux,,1S181N
 AOC,Grand Roussillon,Grand Roussillon rosé,Vin doux naturel,Rosé,Doux,,1S179N
 AOC,Banyuls,Banyuls rosé,Vin doux naturel,Rosé,Doux,,1S175L
-AOC,Banyuls,Banyuls rosé,Vin doux naturel,Rosé,Doux,,1S175L
-AOC,Corrèze,Corrèze vins de raisins passerillés vin de paille rosé,Vin de paille,Rosé,,,1S169L
 AOC,Marcillac,Marcillac rosé,Vin tranquille,Rosé,Sec,,1S141S
 AOC,Irouléguy,Irouléguy rosé,Vin tranquille,Rosé,Sec,,1S134S
-AOC,Gaillac,Gaillac rosé,Vin tranquille,Rosé,Sec,,1S128S
 AOC,Gaillac,Gaillac rosé,Vin tranquille,Rosé,Sec,,1S128S
 AOC,Côtes du Marmandais,Côtes du Marmandais rosé,Vin tranquille,Rosé,Sec,,1S124S
 AOC,Fronton,Fronton rosé,Vin tranquille,Rosé,Sec,,1S121S
@@ -1765,15 +1569,11 @@ AOC,Crémant de Bordeaux,Crémant de Bordeaux rosé,Vin mousseux Crémant,Rosé,
 AOC,Côtes de Duras,Côtes de Duras rosé,Vin tranquille,Rosé,Sec,,1S117S
 AOC,Buzet,Buzet rosé,Vin tranquille,Rosé,Sec,,1S109S
 AOC,Bordeaux,Bordeaux clairet,Vin tranquille,Rosé,Sec,,1S105S1
-AOC,Bordeaux,Bordeaux clairet,Vin tranquille,Rosé,Sec,,1S105S1
-AOC,Bordeaux,Bordeaux rosé,Vin tranquille,Rosé,Sec,,1S105S
 AOC,Bordeaux,Bordeaux rosé,Vin tranquille,Rosé,Sec,,1S105S
 AOC,Bergerac,Bergerac rosé,Vin tranquille,Rosé,Sec,,1S103
 AOC,Béarn,Béarn rosé,Vin tranquille,Rosé,Sec,,1S101S
-AOC,Béarn,Béarn rosé,Vin tranquille,Rosé,Sec,,1S101S
 AOC,Coteaux champenois,Coteaux champenois rosé,Vin tranquille,Rosé,Sec,,1S082M01
 AOC,Rosé des Riceys,Rosé des Riceys,Vin tranquille,Rosé,Sec,,1S081M01
-AOC,Champagne,Champagne rosé,Vin mousseux,Rosé,,,1S080M 1
 AOC,Champagne,Champagne rosé,Vin mousseux,Rosé,,,1S080M 1
 AOC,Côtes de Toul,Côtes de Toul gris,Vin tranquille,Gris,Sec,,1S052S
 AOC,Alsace ou Vin d'Alsace,Alsace rosé,Vin tranquille,Rosé,Sec (usage),,1S001S
@@ -1788,16 +1588,10 @@ AOC,Brulhois,Brulhois rouge,Vin tranquille,Rouge,Sec,,1R722S
 AOC,Saint-Mont,Saint-Mont rouge,Vin tranquille,Rouge,Sec,,1R721S
 AOC,Côtes de Millau,Côtes de Millau rouge,Vin tranquille,Rouge,Sec,,1R720S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne Madargues rouge,Vin tranquille,Rouge,Sec,,1R719S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne Madargues rouge,Vin tranquille,Rouge,Sec,,1R719S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne Châteaugay rouge,Vin tranquille,Rouge,Sec,,1R717S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne Châteaugay rouge,Vin tranquille,Rouge,Sec,,1R717S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne Chanturgue rouge,Vin tranquille,Rouge,Sec,,1R716S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne Chanturgue rouge,Vin tranquille,Rouge,Sec,,1R716S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne Boudes rouge,Vin tranquille,Rouge,Sec,,1R715S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne Boudes rouge,Vin tranquille,Rouge,Sec,,1R715S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne rouge,Vin tranquille,Rouge,Sec,,1R714S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne rouge,Vin tranquille,Rouge,Sec,,1R714S
-AOC,Haut-Poitou,Haut-Poitou rouge,Vin tranquille,Rouge,Sec,,1R713S
 AOC,Haut-Poitou,Haut-Poitou rouge,Vin tranquille,Rouge,Sec,,1R713S
 AOC,Fiefs Vendéens,Fiefs Vendéens Vix rouge,Vin tranquille,Rouge,Sec,,1R712S
 AOC,Fiefs Vendéens,Fiefs Vendéens Pissotte rouge,Vin tranquille,Rouge,Sec,,1R711S
@@ -1807,13 +1601,11 @@ AOC,Coteaux d'Ancenis,Coteaux d'Ancenis rouge,Vin tranquille,Rouge,Sec,,1R707S
 AOC,Moselle,Moselle rouge,Vin tranquille,Rouge,Sec,,1R706S
 AOC,Touraine,Touraine Chenonceaux rouge,Vin tranquille,Rouge,Sec,,1R705S
 AOC,Châteaumeillant,Châteaumeillant rouge,Vin tranquille,Rouge,Sec,,1R700
-AOC,Côtes de Provence,Côtes de Provence Pierrefeu rouge,Vin tranquille,Rouge,Sec,,1R595S
+AOC,Pineau des Charentes,Pineau des Charentes rouge,Vin de liqueur,Rouge,Doux,,1R600Z
+AOC,Côtes de Provence,Côtes de Provence Notre-Dame des Anges rouge,Vin tranquille,Rouge,Sec,,1R596S
 AOC,Côtes de Provence,Côtes de Provence Pierrefeu rouge,Vin tranquille,Rouge,Sec,,1R595S
 AOC,Côtes de Provence,Côtes de Provence la Londe rouge,Vin tranquille,Rouge,Sec,,1R594S
-AOC,Côtes de Provence,Côtes de Provence la Londe rouge,Vin tranquille,Rouge,Sec,,1R594S
 AOC,Côtes de Provence,Côtes de Provence Fréjus rouge,Vin tranquille,Rouge,Sec,,1R593S
-AOC,Côtes de Provence,Côtes de Provence Fréjus rouge,Vin tranquille,Rouge,Sec,,1R593S
-AOC,Côtes de Provence,Côtes de Provence Sainte-Victoire rouge,Vin tranquille,Rouge,Sec,,1R592S
 AOC,Côtes de Provence,Côtes de Provence Sainte-Victoire rouge,Vin tranquille,Rouge,Sec,,1R592S
 AOC,Les Baux de Provence,Les Baux de Provence rouge,Vin tranquille,Rouge,Sec,,1R591S
 AOC,Vin de Corse ou Corse,Vin de Corse ou Corse Sartène rouge,Vin tranquille,Rouge,Sec,,1R590S
@@ -1825,8 +1617,6 @@ AOC,Vin de Corse ou Corse,Vin de Corse ou Corse rouge,Vin tranquille,Rouge,Sec,,
 AOC,Patrimonio,Patrimonio rouge,Vin tranquille,Rouge,Sec,,1R584S
 AOC,Palette,Palette rouge,Vin tranquille,Rouge,Sec,,1R583S
 AOC,Côtes de Provence,Côtes de Provence rouge,Vin tranquille,Rouge,Sec,,1R582S
-AOC,Côtes de Provence,Côtes de Provence rouge,Vin tranquille,Rouge,Sec,,1R582S
-AOC,Coteaux varois en Provence,Coteaux varois en Provence rouge,Vin tranquille,Rouge,Sec,,1R581S
 AOC,Coteaux varois en Provence,Coteaux varois en Provence rouge,Vin tranquille,Rouge,Sec,,1R581S
 AOC,Coteaux d'Aix-en-Provence,Coteaux d'Aix-en-Provence rouge,Vin tranquille,Rouge,Sec,,1R579S
 AOC,Cassis,Cassis rouge,Vin tranquille,Rouge,Sec,,1R578S
@@ -1845,61 +1635,39 @@ AOC,Vinsobres,Vinsobres,Vin tranquille,Rouge,Sec,,1R540S
 AOC,Beaumes de Venise,Beaumes de Venise,Vin tranquille,Rouge,Sec,,1R539S
 AOC,Vacqueyras,Vacqueyras rouge,Vin tranquille,Rouge,Sec,,1R538S
 AOC,Lirac,Lirac rouge,Vin tranquille,Rouge,Sec,,1R536S
-AOC,Lirac,Lirac rouge,Vin tranquille,Rouge,Sec,,1R536S
-AOC,Gigondas,Gigondas rouge,Vin tranquille,Rouge,Sec,,1R535S
 AOC,Gigondas,Gigondas rouge,Vin tranquille,Rouge,Sec,,1R535S
 AOC,Ventoux,Ventoux primeur ou nouveau rouge,Vin primeur,Rouge,Sec,,1R534S01
 AOC,Ventoux,Ventoux rouge,Vin tranquille,Rouge,Sec,,1R534S
 AOC,Luberon,Luberon rouge,Vin tranquille,Rouge,Sec,,1R533S
-AOC,Luberon,Luberon rouge,Vin tranquille,Rouge,Sec,,1R533S
 AOC,Châteauneuf-du-Pape,Châteauneuf-du-Pape rouge,Vin tranquille,Rouge,Sec,,1R532S
+AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Andéol rouge,Vin tranquille,Rouge,Sec,Villages,1R531S25
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Vaison-la-Romaine rouge,Vin tranquille,Rouge,Sec,Villages,1R531S24
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Suze-la-Rousse rouge,Vin tranquille,Rouge,Sec,Villages,1R531S23
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sainte-Cécile rouge,Vin tranquille,Rouge,Sec,Villages,1R531S22
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Gadagne rouge,Vin tranquille,Rouge,Sec,Villages,1R531S21
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Signargues,Vin tranquille,Rouge,Sec,Villages,1R531S20
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Signargues rouge,Vin tranquille,Rouge,Sec,Villages,1R531S20
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Puyméras,Vin tranquille,Rouge,Sec,Villages,1R531S19
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Puyméras rouge,Vin tranquille,Rouge,Sec,Villages,1R531S19
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Plan de Dieu,Vin tranquille,Rouge,Sec,Villages,1R531S18
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Plan de Dieu rouge,Vin tranquille,Rouge,Sec,Villages,1R531S18
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Massif d'Uchaux,Vin tranquille,Rouge,Sec,Villages,1R531S17
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Massif d'Uchaux rouge,Vin tranquille,Rouge,Sec,Villages,1R531S17
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan rouge,Vin tranquille,Rouge,Sec,Villages,1R531S16
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan rouge,Vin tranquille,Rouge,Sec,Villages,1R531S16
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas rouge,Vin tranquille,Rouge,Sec,Villages,1R531S15
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas rouge,Vin tranquille,Rouge,Sec,Villages,1R531S15
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret rouge,Vin tranquille,Rouge,Sec,Villages,1R531S14
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret rouge,Vin tranquille,Rouge,Sec,Villages,1R531S14
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais rouge,Vin tranquille,Rouge,Sec,Villages,1R531S13
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais rouge,Vin tranquille,Rouge,Sec,Villages,1R531S13
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet rouge,Vin tranquille,Rouge,Sec,Villages,1R531S12
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet rouge,Vin tranquille,Rouge,Sec,Villages,1R531S12
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix rouge,Vin tranquille,Rouge,Sec,Villages,1R531S11
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix rouge,Vin tranquille,Rouge,Sec,Villages,1R531S11
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun rouge,Vin tranquille,Rouge,Sec,Villages,1R531S09
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun rouge,Vin tranquille,Rouge,Sec,Villages,1R531S09
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Chusclan rouge,Vin tranquille,Rouge,Sec,Villages,1R531S08
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Chusclan rouge,Vin tranquille,Rouge,Sec,Villages,1R531S08
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Cairanne rouge,Vin tranquille,Rouge,Sec,Villages,1R531S07
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes rouge,Vin tranquille,Rouge,Sec,Villages,1R531 04
+AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Nyons rouge,Vin tranquille,Rouge,Sec,Villages,1R531S
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes rouge,Vin tranquille,Rouge,Sec,Villages,1R531 04
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice rouge,Vin tranquille,Rouge,Sec,Villages,1R531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice rouge,Vin tranquille,Rouge,Sec,Villages,1R531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes rouge,Vin tranquille,Rouge,Sec,Villages,1R531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes rouge,Vin tranquille,Rouge,Sec,Villages,1R531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude rouge,Vin tranquille,Rouge,Sec,Villages,1R531 01
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude rouge,Vin tranquille,Rouge,Sec,Villages,1R531 01
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages rouge,Vin tranquille,Rouge,Sec,Villages,1R531
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages rouge,Vin tranquille,Rouge,Sec,Villages,1R531
 AOC,Côtes du Rhône,Côtes du Rhône primeur ou nouveau rouge,Vin primeur,Rouge,Sec,,1R530 01
-AOC,Côtes du Rhône,Côtes du Rhône primeur ou nouveau rouge,Vin primeur,Rouge,Sec,,1R530 01
-AOC,Côtes du Rhône,Côtes du Rhône rouge,Vin tranquille,Rouge,Sec,,1R530
 AOC,Côtes du Rhône,Côtes du Rhône rouge,Vin tranquille,Rouge,Sec,,1R530
 AOC,Pierrevert,Pierrevert rouge,Vin tranquille,Rouge,Sec,,1R529S
 AOC,Côte Rôtie,Côte Rôtie,Vin tranquille,Rouge,Sec,,1R527
 AOC,Cornas,Cornas,Vin tranquille,Rouge,Sec,,1R526
-AOC,Châtillon-en-Diois,Châtillon-en-Diois rouge,Vin tranquille,Rouge,Sec,,1R522
 AOC,Châtillon-en-Diois,Châtillon-en-Diois rouge,Vin tranquille,Rouge,Sec,,1R522
 AOC,Côtes du Vivarais,Côtes du Vivarais rouge,Vin tranquille,Rouge,Sec,,1R521
 AOC,Malepère,Malepère rouge,Vin tranquille,Rouge,Sec,,1R519
@@ -1917,7 +1685,6 @@ AOC,Languedoc,Languedoc Saint-Georges-d'Orques rouge,Vin tranquille,Rouge,Sec (u
 AOC,Languedoc,Languedoc Saint-Drézéry rouge,Vin tranquille,Rouge,Sec (usage),,1R504
 AOC,Languedoc,Languedoc Saint-Christol rouge,Vin tranquille,Rouge,Sec (usage),,1R503
 AOC,Languedoc,Languedoc Quatourze rouge,Vin tranquille,Rouge,Sec (usage),,1R502
-AOC,Languedoc,Languedoc Pic-Saint-Loup rouge,Vin tranquille,Rouge,Sec (usage),,1R500
 AOC,Languedoc,Languedoc Montpeyroux rouge,Vin tranquille,Rouge,Sec (usage),,1R499
 AOC,Languedoc,Languedoc La Méjanelle rouge,Vin tranquille,Rouge,Sec (usage),,1R498
 AOC,Languedoc,Languedoc Cabrières rouge,Vin tranquille,Rouge,Sec (usage),,1R496
@@ -1929,23 +1696,15 @@ AOC,Collioure,Collioure rouge,Vin tranquille,Rouge,Doux,,1R489S
 AOC,Terrasses du Larzac,Terrasses du Larzac,Vin tranquille,Rouge,Sec,,1R488
 AOC,La Clape,La Clape rouge,Vin tranquille,Rouge,Sec,,1R487S
 AOC,Corbières-Boutenac,Corbières-Boutenac,Vin tranquille,Rouge,Sec,,1R486
-AOC,Côtes du Roussillon,Côtes du Roussillon Les Aspres,Vin tranquille,Rouge,Sec,,1R485S
 AOC,Limoux,Limoux rouge,Vin tranquille,Rouge,Sec,,1R483S
 AOC,Fitou,Fitou,Vin tranquille,Rouge,Sec,,1R482S
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Les Aspres,Vin tranquille,Rouge,Sec,Villages,1R481S 5
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Tautavel,Vin tranquille,Rouge,Sec,Villages,1R481S 4
-AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Tautavel,Vin tranquille,Rouge,Sec,Villages,1R481S 4
-AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Lesquerde,Vin tranquille,Rouge,Sec,Villages,1R481S 3
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Lesquerde,Vin tranquille,Rouge,Sec,Villages,1R481S 3
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Latour-de-France,Vin tranquille,Rouge,Sec,Villages,1R481S 2
-AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Latour-de-France,Vin tranquille,Rouge,Sec,Villages,1R481S 2
-AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Caramany,Vin tranquille,Rouge,Sec,Villages,1R481S 1
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages Caramany,Vin tranquille,Rouge,Sec,Villages,1R481S 1
 AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages,Vin tranquille,Rouge,Sec,Villages,1R481S
-AOC,Côtes du Roussillon Villages,Côtes du Roussillon Villages,Vin tranquille,Rouge,Sec,Villages,1R481S
 AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur rouge,Vin primeur,Rouge,Sec,,1R480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur rouge,Vin primeur,Rouge,Sec,,1R480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon rouge,Vin tranquille,Rouge,Sec,,1R480S
 AOC,Côtes du Roussillon,Côtes du Roussillon rouge,Vin tranquille,Rouge,Sec,,1R480S
 AOC,Pic Saint-Loup,Pic Saint-Loup rouge,Vin tranquille,Rouge,Sec,,1R479
 AOC,Vougeot,Vougeot premier cru Les Petits Vougeots rouge,Vin tranquille,Rouge,Sec,Premier cru,1R474 04
@@ -2327,7 +2086,7 @@ AOC,Fleurie,Fleurie ou Fleurie cru du Beaujolais,Vin tranquille,Rouge,Sec,Cru,1R
 AOC,Bourgogne,Bourgogne Côtes du Couchois,Vin tranquille,Rouge,Sec,,1R362
 AOC,Côtes du Forez,Côtes du Forez rouge,Vin tranquille,Rouge,Sec,,1R360
 AOC,Côte roannaise,Côte roannaise rouge,Vin tranquille,Rouge,Sec,,1R359
-AOC,Côte de Nuits-Villages,Côte de Nuits-Villages rouge ou Vins fins de la Côte de Nuits rouge,Vin tranquille,Rouge,Sec,Villages,1R358
+AOC,Côte de Nuits-Villages ou Vins fins de la Côte de Nuits,Côte de Nuits-Villages rouge ou Vins fins de la Côte de Nuits rouge,Vin tranquille,Rouge,Sec,Villages,1R358
 AOC,Bourgogne,Bourgogne Epineuil rouge,Vin tranquille,Rouge,Sec,,1R357
 AOC,Bourgogne,Bourgogne Coulanges-la-Vineuse rouge,Vin tranquille,Rouge,Sec,,1R356
 AOC,Bourgogne,Bourgogne Côte Saint-Jacques rouge,Vin tranquille,Rouge,Sec,,1R355
@@ -2734,21 +2493,15 @@ AOC,Valençay,Valençay rouge,Vin tranquille,Rouge,Sec,,1R233S
 AOC,Cheverny,Cheverny rouge,Vin tranquille,Rouge,Sec,,1R231S
 AOC,Coteaux du Loir,Coteaux du Loir rouge,Vin tranquille,Rouge,Sec,,1R223S
 AOC,Chinon,Chinon rouge,Vin tranquille,Rouge,Sec,,1R222S
-AOC,Chinon,Chinon rouge,Vin tranquille,Rouge,Sec,,1R222S
-AOC,Saint-Nicolas-de-Bourgueil,Saint-Nicolas-de-Bourgueil rouge,Vin tranquille,Rouge,Sec,,1R221S
 AOC,Saint-Nicolas-de-Bourgueil,Saint-Nicolas-de-Bourgueil rouge,Vin tranquille,Rouge,Sec,,1R221S
 AOC,Bourgueil,Bourgueil rouge,Vin tranquille,Rouge,Sec,,1R220S
 AOC,Coteaux du Vendômois,Coteaux du Vendômois rouge,Vin tranquille,Rouge,Sec,,1R218S
-AOC,Anjou Villages Brissac,Anjou Villages Brissac,Vin tranquille,Rouge,Sec,Villages,1R217S
+AOC,Anjou Brissac,Anjou Villages Brissac,Vin tranquille,Rouge,Sec,Villages,1R217S
+AOC,Anjou Brissac,Anjou Brissac,Vin tranquille,Rouge,Sec,Villages,1R217S
 AOC,Saumur-Champigny,Saumur-Champigny,Vin tranquille,Rouge,Sec,,1R208
-AOC,Saumur-Champigny,Saumur-Champigny,Vin tranquille,Rouge,Sec,,1R208
-AOC,Saumur,Saumur rouge,Vin tranquille,Rouge,Sec,,1R206S
 AOC,Anjou Villages,Anjou Villages,Vin tranquille,Rouge,Sec,Villages,1R204S
 AOC,Anjou,Anjou gamay nouveau ou primeur,Vin primeur,Rouge,Sec,,1R203S01
-AOC,Anjou,Anjou gamay nouveau ou primeur,Vin primeur,Rouge,Sec,,1R203S01
 AOC,Anjou,Anjou gamay,Vin tranquille,Rouge,Sec,,1R203S
-AOC,Anjou,Anjou gamay,Vin tranquille,Rouge,Sec,,1R203S
-AOC,Anjou,Anjou rouge,Vin tranquille,Rouge,Sec,,1R200S
 AOC,Anjou,Anjou rouge,Vin tranquille,Rouge,Sec,,1R200S
 AOC,Orléans-Cléry,Orléans-Cléry,Vin tranquille,Rouge,Sec,,1R199
 AOC,Orléans,Orléans rouge,Vin tranquille,Rouge,Sec,,1R198
@@ -2756,7 +2509,6 @@ AOC,Coteaux du Giennois,Coteaux du Giennois rouge,Vin tranquille,Rouge,Sec,,1R19
 AOC,Sancerre,Sancerre rouge,Vin tranquille,Rouge,Sec,,1R196S
 AOC,Reuilly,Reuilly rouge,Vin tranquille,Rouge,Sec,,1R194S
 AOC,Menetou-Salon,Menetou-Salon rouge,Vin tranquille,Rouge,Sec,,1R190S
-AOC,Saumur,Saumur Puy-Notre-Dame,Vin tranquille,Rouge,Sec,,1R189S
 AOC,Saumur,Saumur Puy-Notre-Dame,Vin tranquille,Rouge,Sec,,1R189S
 AOC,Rivesaltes,Rivesaltes rancio,Vin doux naturel,Rancio,Doux,,1R188NRA
 AOC,Rivesaltes,Rivesaltes tuilé hors d'âge,Vin doux naturel,Tuilé,Doux,,1R188NHA
@@ -2782,47 +2534,34 @@ AOC,Maury,Maury grenat,Vin doux naturel,Rouge,Doux,,1R180N
 AOC,Grand Roussillon,Grand Roussillon rancio,Vin doux naturel,Rancio,Doux,,1R179NRA
 AOC,Grand Roussillon,Grand Roussillon rouge,Vin doux naturel,Rouge,Doux,,1R179N
 AOC,Banyuls,Banyuls traditionnel rancio hors d'âge,Vin doux naturel,Rouge,Doux,,1R175NTT
-AOC,Banyuls,Banyuls traditionnel rancio hors d'âge,Vin doux naturel,Rouge,Doux,,1R175NTT
-AOC,Banyuls,Banyuls traditionnel rancio,Vin doux naturel,Rancio,Doux,,1R175NTR
 AOC,Banyuls,Banyuls traditionnel rancio,Vin doux naturel,Rancio,Doux,,1R175NTR
 AOC,Banyuls,Banyuls traditionnel hors âge,Vin doux naturel,Rancio,Doux,,1R175NTH
-AOC,Banyuls,Banyuls traditionnel hors âge,Vin doux naturel,Rancio,Doux,,1R175NTH
-AOC,Banyuls,Banyuls traditionnel,Vin doux naturel,Rouge,Doux,,1R175NT0
 AOC,Banyuls,Banyuls traditionnel,Vin doux naturel,Rouge,Doux,,1R175NT0
 AOC,Banyuls grand cru,Banyuls grand cru rancio hors d'âge,Vin doux naturel,Rancio,Doux,Grand cru,1R175NGT
 AOC,Banyuls grand cru,Banyuls grand cru rancio,Vin doux naturel,Rancio,Doux,Grand cru,1R175NGR
 AOC,Banyuls grand cru,Banyuls grand cru hors d'âge,Vin doux naturel,Rouge,Doux,Grand cru,1R175NGH
 AOC,Banyuls grand cru,Banyuls grand cru,Vin doux naturel,Rouge,Doux,Grand cru,1R175N 1
 AOC,Banyuls,Banyuls rimage,Vin doux naturel,Rouge,Doux,,1R175L
-AOC,Banyuls,Banyuls rimage,Vin doux naturel,Rouge,Doux,,1R175L
 AOC,Saumur,Saumur rouge,Vin tranquille,Rouge,Sec,,1R170S
 AOC,Corrèze,Corrèze Coteaux de la Vézère rouge,Vin tranquille,Rouge,Sec,,1R169S01
 AOC,Corrèze,Corrèze rouge,Vin tranquille,Rouge,,Départemental,1R169
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Sainte-Foy rouge,Vin tranquille,Rouge,Sec,,1R168S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Cadillac,Vin tranquille,Rouge,Sec,,1R167S
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Cadillac,Vin tranquille,Rouge,Sec,,1R167S
-AOC,Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux rouge,Vin tranquille,Rouge,Sec,,1R162S
 AOC,Saint-Julien,Saint-Julien,Vin tranquille,Rouge,Sec,,1R160S
 AOC,Saint-Georges-Saint-Emilion,Saint-Georges-Saint-Emilion,Vin tranquille,Rouge,Sec,,1R159S
 AOC,Saint-Estèphe,Saint-Estèphe,Vin tranquille,Rouge,Sec,,1R158S
 AOC,Saint-Emilion grand cru,Saint-Emilion grand cru,Vin tranquille,Rouge,Sec,Grand cru,1R157S
-AOC,Saint-Emilion grand cru,Saint-Emilion grand cru,Vin tranquille,Rouge,Sec,Grand cru,1R157S
 AOC,Saint-Emilion grand cru,Saint-Emilion grand cru Premier grand cru classé,Vin tranquille,Rouge,Sec,Grand cru,1R157S
-AOC,Saint-Emilion grand cru,Saint-Emilion grand cru Premier grand cru classé,Vin tranquille,Rouge,Sec,Grand cru,1R157S
-AOC,Saint-Emilion grand cru,Saint-Emilion grand cru Grand cru classé,Vin tranquille,Rouge,Sec,Grand cru,1R157S
 AOC,Saint-Emilion grand cru,Saint-Emilion grand cru Grand cru classé,Vin tranquille,Rouge,Sec,Grand cru,1R157S
 AOC,Saint-Emilion,Saint-Emilion,Vin tranquille,Rouge,Sec,,1R156S
 AOC,Puisseguin-Saint-Emilion,Puisseguin-Saint-Emilion,Vin tranquille,Rouge,Sec,,1R154S
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Blaye rouge,Vin tranquille,Rouge,Sec,,1R152S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Blaye rouge,Vin tranquille,Rouge,Sec,,1R152S01
 AOC,Pomerol,Pomerol,Vin tranquille,Rouge,Sec,,1R151S
 AOC,Pessac-Léognan,Pessac-Léognan rouge,Vin tranquille,Rouge,Sec,,1R150S
 AOC,Pécharmant,Pécharmant,Vin tranquille,Rouge,Sec,,1R149S
 AOC,Pauillac,Pauillac,Vin tranquille,Rouge,Sec,,1R148S
 AOC,Moulis ou Moulis-en-Médoc,Moulis ou Moulis-en-Médoc,Vin tranquille,Rouge,Sec,,1R147S
-AOC,Moulis ou Moulis-en-Médoc,Moulis ou Moulis-en-Médoc,Vin tranquille,Rouge,Sec,,1R147S
 AOC,Montravel,Montravel rouge,Vin tranquille,Rouge,,,1R146S
-AOC,Montagne-Saint-Emilion,Montagne-Saint-Emilion,Vin tranquille,Rouge,Sec,,1R145S
 AOC,Montagne-Saint-Emilion,Montagne-Saint-Emilion,Vin tranquille,Rouge,Sec,,1R145S
 AOC,Médoc,Médoc,Vin tranquille,Rouge,Sec,,1R143S
 AOC,Margaux,Margaux,Vin tranquille,Rouge,Sec,,1R142S
@@ -2836,16 +2575,12 @@ AOC,Haut-Médoc,Haut-Médoc,Vin tranquille,Rouge,Sec,,1R132S
 AOC,Graves de Vayres,Graves de Vayres rouge,Vin tranquille,Rouge,Sec,,1R131S
 AOC,Graves,Graves rouge,Vin tranquille,Rouge,Sec,,1R130S
 AOC,Gaillac,Gaillac rouge primeur,Vin primeur,Rouge,Sec,,1R128S 2
-AOC,Gaillac,Gaillac rouge primeur,Vin primeur,Rouge,Sec,,1R128S 2
-AOC,Gaillac,Gaillac rouge,Vin tranquille,Rouge,Sec,,1R128S
 AOC,Gaillac,Gaillac rouge,Vin tranquille,Rouge,Sec,,1R128S
 AOC,Fronsac,Fronsac,Vin tranquille,Rouge,Sec,,1R127S
 AOC,Côtes du Marmandais,Côtes du Marmandais rouge,Vin tranquille,Rouge,Sec,,1R124S
 AOC,Fronton,Fronton rouge,Vin tranquille,Rouge,Sec,,1R121S
 AOC,Côtes de Bordeaux,Côtes de Bordeaux,Vin tranquille,Rouge,Sec,,1R120S
-AOC,Côtes de Bordeaux,Côtes de Bordeaux,Vin tranquille,Rouge,Sec,,1R120S
 AOC,Côtes de Duras,Côtes de Duras rouge,Vin tranquille,Rouge,Sec,,1R117S
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Castillon,Vin tranquille,Rouge,Sec,,1R116S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Castillon,Vin tranquille,Rouge,Sec,,1R116S01
 AOC,Canon Fronsac,Canon Fronsac,Vin tranquille,Rouge,Sec,,1R112S
 AOC,Cahors,Cahors,Vin tranquille,Rouge,Sec,,1R111S
@@ -2854,14 +2589,10 @@ AOC,Côtes de Bourg Bourg et Bourgeais,Côtes de Bourg Bourg et Bourgeais rouge,
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Francs rouge,Vin tranquille,Rouge,Sec,,1R106S01
 AOC,Bordeaux supérieur,Bordeaux supérieur rouge,Vin tranquille,Rouge,Sec,Supérieur,1R105S2
 AOC,Bordeaux,Bordeaux claret,Vin tranquille,Rouge,Sec,,1R105S1
-AOC,Bordeaux,Bordeaux claret,Vin tranquille,Rouge,Sec,,1R105S1
-AOC,Bordeaux,Bordeaux rouge ou claret,Vin tranquille,Rouge,Sec,,1R105S
 AOC,Bordeaux,Bordeaux rouge ou claret,Vin tranquille,Rouge,Sec,,1R105S
 AOC,Blaye,Blaye,Vin tranquille,Rouge,Sec,,1R104S
 AOC,Côtes de Bergerac,Côtes de Bergerac rouge,Vin tranquille,Rouge,Sec,,1R103S 1
-AOC,Côtes de Bergerac,Côtes de Bergerac rouge,Vin tranquille,Rouge,Sec,,1R103S 1
 AOC,Bergerac,Bergerac rouge,Vin tranquille,Rouge,Sec,,1R103S
-AOC,Béarn,Béarn rouge,Vin tranquille,Rouge,Sec,,1R101S
 AOC,Béarn,Béarn rouge,Vin tranquille,Rouge,Sec,,1R101S
 AOC,Coteaux champenois,Coteaux champenois rouge,Vin tranquille,Rouge,Sec,,1R082M01
 AOC,Alsace ou Vin d'Alsace,Alsace suivi d'un nom de lieu-dit rouge,Vin tranquille,Rouge,Sec (usage),,1R070S
@@ -2871,6 +2602,10 @@ AOC,Alsace ou Vin d'Alsace,Alsace Ottrott rouge,Vin tranquille,Rouge,Sec,,1R058S
 AOC,Alsace ou Vin d'Alsace,Alsace Côte de Rouffach rouge,Vin tranquille,Rouge,Sec,,1R057S
 AOC,Côtes de Toul,Côtes de Toul rouge,Vin tranquille,Rouge,Sec,,1R052S
 AOC,Alsace ou Vin d'Alsace,Alsace rouge,Vin tranquille,Rouge,Sec (usage),,1R001S
+AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Mouzillon - Tillières,Vin tranquille,Blanc,Sec,,1B733
+AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Monnières - Saint-Fiacre,Vin tranquille,Blanc,Sec,,1B732
+AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Goulaine,Vin tranquille,Blanc,Sec,,1B731
+AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Château-Thébaud,Vin tranquille,Blanc,Sec,,1B730
 AOC,Fiefs Vendéens,Fiefs Vendéens Chantonnay blanc,Vin tranquille,Blanc,Sec,,1B728S
 AOC,Estaing,Estaing blanc,Vin tranquille,Blanc,Sec,,1B726S
 AOC,Entraygues - Le Fel,Entraygues - Le Fel blanc,Vin tranquille,Blanc,Sec,,1B725S
@@ -2878,8 +2613,6 @@ AOC,Tursan,Tursan blanc,Vin tranquille,Blanc,Sec,,1B724S
 AOC,Saint-Mont,Saint-Mont blanc,Vin tranquille,Blanc,Sec,,1B721S
 AOC,Côtes de Millau,Côtes de Millau blanc,Vin tranquille,Blanc,Sec,,1B720S
 AOC,Côtes d'Auvergne,Côtes d'Auvergne blanc,Vin tranquille,Blanc,Sec,,1B714S
-AOC,Côtes d'Auvergne,Côtes d'Auvergne blanc,Vin tranquille,Blanc,Sec,,1B714S
-AOC,Haut-Poitou,Haut-Poitou blanc,Vin tranquille,Blanc,Sec,,1B713S
 AOC,Haut-Poitou,Haut-Poitou blanc,Vin tranquille,Blanc,Sec,,1B713S
 AOC,Fiefs Vendéens,Fiefs Vendéens Vix blanc,Vin tranquille,Blanc,Sec,,1B712S
 AOC,Fiefs Vendéens,Fiefs Vendéens Pissotte blanc,Vin tranquille,Blanc,Sec,,1B711S
@@ -2892,11 +2625,12 @@ AOC,Coteaux d'Ancenis,Coteaux d'Ancenis Malvoisie,Vin tranquille,Blanc,Sec,,1B70
 AOC,Moselle,Moselle blanc,Vin tranquille,Blanc,Sec,,1B706S
 AOC,Touraine,Touraine Chenonceaux blanc,Vin tranquille,Blanc,Sec,,1B705S
 AOC,Touraine,Touraine Oisly,Vin tranquille,Blanc,Sec,,1B704S
+AOC,Touraine,Touraine Oisly blanc,Vin tranquille,Blanc,Sec,,1B704S
 AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Le Pallet,Vin tranquille,Blanc,Sec,,1B703
 AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Gorges,Vin tranquille,Blanc,Sec,,1B702
 AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine Clisson,Vin tranquille,Blanc,Sec,,1B701
 AOC,Floc de Gascogne,Floc de Gascogne blanc,Vin de liqueur,Blanc,Doux,,1B610Z
-AOC,Pineau des Charentes ou Pineau Charentais,Pineau des Charentes blanc,Vin de liqueur,Blanc,Doux,,1B600Z
+AOC,Pineau des Charentes,Pineau des Charentes blanc,Vin de liqueur,Blanc,Doux,,1B600Z
 AOC,Côtes de Provence,Côtes de Provence la Londe blanc,Vin tranquille,Blanc,Sec,,1B594S
 AOC,Les Baux de Provence,Les Baux de Provence blanc,Vin tranquille,Rosé,Sec,,1B591S
 AOC,Vin de Corse ou Corse,Vin de Corse ou Corse Sartène blanc,Vin tranquille,Blanc,Sec,,1B590S
@@ -2908,8 +2642,7 @@ AOC,Vin de Corse ou Corse,Vin de Corse ou Corse blanc,Vin tranquille,Blanc,Sec,,
 AOC,Patrimonio,Patrimonio blanc,Vin tranquille,Blanc,Sec,,1B584S
 AOC,Palette,Palette blanc,Vin tranquille,Blanc,Sec,,1B583S
 AOC,Côtes de Provence,Côtes de Provence blanc,Vin tranquille,Blanc,Sec,,1B582S
-AOC,Côtes de Provence,Côtes de Provence blanc,Vin tranquille,Blanc,Sec,,1B582S
-AOC,Coteaux varois en Provence,Coteaux varois en Provence blanc,Vin tranquille,Blanc,Sec,,1B581S
+AOC,Coteaux varois en Provence,Coteaux Varois en Provence blanc,Vin tranquille,Blanc,Sec,,1B581S
 AOC,Coteaux varois en Provence,Coteaux varois en Provence blanc,Vin tranquille,Blanc,Sec,,1B581S
 AOC,Coteaux d'Aix-en-Provence,Coteaux d'Aix-en-Provence blanc,Vin tranquille,Blanc,Sec,,1B579S
 AOC,Cassis,Cassis blanc,Vin tranquille,Blanc,Sec,,1B578S
@@ -2929,50 +2662,29 @@ AOC,Hermitage ou Ermitage ou l'Hermitage ou l'Ermitage,Hermitage ou Ermitage ou 
 AOC,Hermitage ou Ermitage ou l'Hermitage ou l'Ermitage,Hermitage ou Ermitage ou l'Hermitage ou l'Ermitage blanc,Vin tranquille,Blanc,Sec,,1B541
 AOC,Vacqueyras,Vacqueyras blanc,Vin tranquille,Blanc,Sec,,1B538S
 AOC,Lirac,Lirac blanc,Vin tranquille,Blanc,Sec,,1B536S
-AOC,Lirac,Lirac blanc,Vin tranquille,Blanc,Sec,,1B536S
 AOC,Ventoux,Ventoux primeur ou nouveau blanc,Vin primeur,Blanc,Sec,,1B534S01
 AOC,Ventoux,Ventoux blanc,Vin tranquille,Blanc,Sec,,1B534S
 AOC,Luberon,Luberon blanc,Vin tranquille,Blanc,Sec,,1B533S
-AOC,Luberon,Luberon blanc,Vin tranquille,Blanc,Sec,,1B533S
 AOC,Châteauneuf-du-Pape,Châteauneuf-du-Pape blanc,Vin tranquille,Blanc,Sec,,1B532S
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan blanc,Vin tranquille,Blanc,Sec,Villages,1B531S16
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Visan blanc,Vin tranquille,Blanc,Sec,Villages,1B531S16
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas blanc,Vin tranquille,Blanc,Sec,Villages,1B531S15
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Valréas blanc,Vin tranquille,Blanc,Sec,Villages,1B531S15
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret blanc,Vin tranquille,Blanc,Sec,Villages,1B531S14
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Séguret blanc,Vin tranquille,Blanc,Sec,Villages,1B531S14
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais blanc,Vin tranquille,Blanc,Sec,Villages,1B531S13
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Gervais blanc,Vin tranquille,Blanc,Sec,Villages,1B531S13
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet blanc,Vin tranquille,Blanc,Sec,Villages,1B531S12
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Sablet blanc,Vin tranquille,Blanc,Sec,Villages,1B531S12
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix blanc,Vin tranquille,Blanc,Sec,Villages,1B531S11
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Roaix blanc,Vin tranquille,Blanc,Sec,Villages,1B531S11
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun blanc,Vin tranquille,Blanc,Sec,Villages,1B531S09
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Laudun blanc,Vin tranquille,Blanc,Sec,Villages,1B531S09
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Cairanne blanc,Vin tranquille,Blanc,Sec,Villages,1B531S07
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes blanc,Vin tranquille,Blanc,Sec,Villages,1B531 04
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes blanc,Vin tranquille,Blanc,Sec,Villages,1B531 04
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice blanc,Vin tranquille,Blanc,Sec,Villages,1B531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Saint-Maurice blanc,Vin tranquille,Blanc,Sec,Villages,1B531 03
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes blanc,Vin tranquille,Blanc,Sec,Villages,1B531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rousset-les-Vignes blanc,Vin tranquille,Blanc,Sec,Villages,1B531 02
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude blanc,Vin tranquille,Blanc,Sec,Villages,1B531 01
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages Rochegude blanc,Vin tranquille,Blanc,Sec,Villages,1B531 01
 AOC,Côtes du Rhône Villages,Côtes du Rhône Villages blanc,Vin tranquille,Blanc,Sec,Villages,1B531
-AOC,Côtes du Rhône Villages,Côtes du Rhône Villages blanc,Vin tranquille,Blanc,Sec,Villages,1B531
-AOC,Côtes du Rhône,Côtes du Rhône blanc,Vin tranquille,Blanc,Sec,,1B530
 AOC,Côtes du Rhône,Côtes du Rhône blanc,Vin tranquille,Blanc,Sec,,1B530
 AOC,Pierrevert,Pierrevert blanc,Vin tranquille,Blanc,Sec,,1B529S
 AOC,Condrieu,Condrieu,Vin tranquille,Blanc,Sec,,1B525
 AOC,Crémant de Die,Crémant de Die,Vin mousseux Crémant,Blanc,,,1B524M
-AOC,Crémant de Die,Crémant de Die,Vin mousseux Crémant,Blanc,,,1B524M
-AOC,Coteaux de Die,Coteaux de Die,Vin tranquille,Blanc,Sec,,1B523S
 AOC,Coteaux de Die,Coteaux de Die,Vin tranquille,Blanc,Sec,,1B523S
 AOC,Clairette de Die,Clairette de Die méthode ancestrale,Vin mousseux Méthode ancestrale,Blanc,Doux,,1B523M 2
-AOC,Clairette de Die,Clairette de Die méthode ancestrale,Vin mousseux Méthode ancestrale,Blanc,Doux,,1B523M 2
 AOC,Clairette de Die,Clairette de Die,Vin mousseux,Blanc,,,1B523M 1
-AOC,Clairette de Die,Clairette de Die,Vin mousseux,Blanc,,,1B523M 1
-AOC,Châtillon-en-Diois,Châtillon-en-Diois blanc,Vin tranquille,Blanc,Sec,,1B522
 AOC,Châtillon-en-Diois,Châtillon-en-Diois blanc,Vin tranquille,Blanc,Sec,,1B522
 AOC,Côtes du Vivarais,Côtes du Vivarais blanc,Vin tranquille,Blanc,Sec,,1B521
 AOC,Château-Grillet,Château-Grillet,Vin tranquille,Blanc,Sec,,1B520
@@ -3022,13 +2734,10 @@ AOC,Clairette de Bellegarde,Clairette de Bellegarde,Vin tranquille,Blanc,Sec,,1B
 AOC,Collioure,Collioure blanc,Vin tranquille,Blanc,Sec,,1B489S
 AOC,La Clape,La Clape blanc,Vin tranquille,Blanc,Sec,,1B487S
 AOC,Crémant de Limoux,Crémant de Limoux blanc,Vin mousseux Crémant,Blanc,,,1B484M
-AOC,Crémant de Limoux,Crémant de Limoux blanc,Vin mousseux Crémant,Blanc,,,1B484M
 AOC,Limoux,Limoux blanc,Vin tranquille,Blanc,Sec,,1B483S
 AOC,Limoux,Limoux méthode ancestrale,Vin mousseux,Blanc,,,1B483M02
 AOC,Limoux,Limoux blanquette de Limoux,Vin mousseux,Blanc,,,1B483M01
 AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur blanc,Vin primeur,Blanc,Sec,,1B480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon nouveau ou primeur blanc,Vin primeur,Blanc,Sec,,1B480S 1
-AOC,Côtes du Roussillon,Côtes du Roussillon blanc,Vin tranquille,Blanc,Sec,,1B480S
 AOC,Côtes du Roussillon,Côtes du Roussillon blanc,Vin tranquille,Blanc,Sec,,1B480S
 AOC,Vougeot,Vougeot premier cru Les Petits Vougeots blanc,Vin tranquille,Blanc,Sec,Premier cru,1B474 04
 AOC,Vougeot,Vougeot premier cru Les Crâs blanc,Vin tranquille,Blanc,Sec,Premier cru,1B474 03
@@ -3058,6 +2767,7 @@ AOC,Vin de Savoie ou Savoie,Vin de Savoie Chautagne blanc,Vin tranquille,Blanc,S
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Ayze,Vin tranquille,Blanc,Sec,,1B445S
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Ayze pétillant,Vin pétillant,Blanc,,,1B445P 1
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Ayze mousseux,Vin mousseux,Blanc,,,1B445M 1
+AOC,Vin de Savoie ou Savoie,Vin de Savoie Ayze mousseux de qualité,Vin mousseux,Blanc,,,1B445M 1
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Apremont,Vin tranquille,Blanc,Sec,,1B443S
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Abymes ou Les Abymes,Vin tranquille,Blanc,Sec,,1B442S
 AOC,Roussette de Savoie,Roussette de Savoie Monthoux,Vin tranquille,Blanc,Sec,,1B441S
@@ -3231,6 +2941,29 @@ AOC,Nuits-Saint-Georges,Nuits-Saint-Georges premier cru Aux Argillas blanc,Vin t
 AOC,Nuits-Saint-Georges,Nuits-Saint-Georges premier cru blanc,Vin tranquille,Blanc,Sec,Premier cru,1B407
 AOC,Nuits-Saint-Georges,Nuits-Saint-Georges blanc,Vin tranquille,Blanc,Sec,,1B406
 AOC,Musigny,Musigny blanc,Vin tranquille,Blanc,Sec,Grand cru,1B405
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Sur la Roche,Vin tranquille,Blanc,Sec,,1B404 22
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Crays,Vin tranquille,Blanc,Sec,,1B404 21
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru La Maréchaude,Vin tranquille,Blanc,Sec,,1B404 20
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru En France,Vin tranquille,Blanc,Sec,,1B404 19
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Pouilly,Vin tranquille,Blanc,Sec,,1B404 18
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Le Clos de Solutré,Vin tranquille,Blanc,Sec,,1B404 17
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru La Frérie,Vin tranquille,Blanc,Sec,,1B404 16
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru En Servy,Vin tranquille,Blanc,Sec,,1B404 15
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Aux Chailloux,Vin tranquille,Blanc,Sec,,1B404 14
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Aux Bouthières,Vin tranquille,Blanc,Sec,,1B404 13
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Au Vignerais,Vin tranquille,Blanc,Sec,,1B404 12
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Vers Cras,Vin tranquille,Blanc,Sec,,1B404 11
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Vignes Blanches,Vin tranquille,Blanc,Sec,,1B404 10
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Reisses,Vin tranquille,Blanc,Sec,,1B404 09
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Perrières,Vin tranquille,Blanc,Sec,,1B404 08
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Ménétrières,Vin tranquille,Blanc,Sec,,1B404 07
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Brulés,Vin tranquille,Blanc,Sec,,1B404 06
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Le Clos,Vin tranquille,Blanc,Sec,,1B404 05
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Les Chevrières,Vin tranquille,Blanc,Sec,,1B404 04
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Le Clos de Monsieur Noly,Vin tranquille,Blanc,Sec,,1B404 03
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Le Clos Reyssier,Vin tranquille,Blanc,Sec,,1B404 02
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru Aux Quarts,Vin tranquille,Blanc,Sec,,1B404 01
+AOC,Pouilly-Fuissé,Pouilly-Fuissé premier cru,Vin tranquille,Blanc,Sec,,1B404
 AOC,Pouilly-Loché,Pouilly-Loché complété par une dénomination de climat,Vin tranquille,Blanc,Sec,,1B402 01
 AOC,Pouilly-Loché,Pouilly-Loché,Vin tranquille,Blanc,Sec,,1B402
 AOC,Pouilly-Vinzelles,Pouilly-Vinzelles complété par une dénomination de climat,Vin tranquille,Blanc,Sec,,1B401 01
@@ -3314,6 +3047,7 @@ AOC,Montagny,Montagny premier cru La Condemine du Vieux Château,Vin tranquille,
 AOC,Montagny,Montagny premier cru L'Epaule,Vin tranquille,Blanc,Sec,Premier cru,1B383 03
 AOC,Montagny,Montagny premier cru Cornevent,Vin tranquille,Blanc,Sec,Premier cru,1B383 02
 AOC,Montagny,Montagny premier cru,Vin tranquille,Blanc,Sec,Premier cru,1B383
+AOC,Mercurey,Mercurey premier cru Clos du Château de Montaigu blanc,Vin tranquille,Blanc,Sec,Premier cru,1B382 35
 AOC,Mercurey,Mercurey premier cru Les Saumonts blanc,Vin tranquille,Blanc,Sec,Premier cru,1B382 33
 AOC,Mercurey,Mercurey premier cru Les Puillets blanc,Vin tranquille,Blanc,Sec,Premier cru,1B382 32
 AOC,Mercurey,Mercurey premier cru Les Montaigus blanc,Vin tranquille,Blanc,Sec,Premier cru,1B382 31
@@ -3460,7 +3194,7 @@ AOC,Givry,Givry premier cru blanc,Vin tranquille,Blanc,Sec,Premier cru,1B366
 AOC,Criots-Bâtard-Montrachet,Criots-Bâtard-Montrachet,Vin tranquille,Blanc,Sec,Grand cru,1B364
 AOC,Vin de Savoie ou Savoie,Vin de Savoie Crépy,Vin tranquille,Blanc,Sec,,1B363S
 AOC,Crémant de Bourgogne,Crémant de Bourgogne blanc,Vin mousseux Crémant,Blanc,,,1B361M
-AOC,Côte de Nuits-Villages,Côte de Nuits-Villages blanc ou Vins fins de la Côte de Nuits blanc,Vin tranquille,Blanc,Sec,Villages,1B358
+AOC,Côte de Nuits-Villages ou Vins fins de la Côte de Nuits,Côte de Nuits-Villages blanc ou Vins fins de la Côte de Nuits blanc,Vin tranquille,Blanc,Sec,Villages,1B358
 AOC,Bourgogne,Bourgogne Coulanges-la-Vineuse blanc,Vin tranquille,Blanc,Sec,,1B356
 AOC,Bourgogne,Bourgogne Côte Saint-Jacques blanc,Vin tranquille,Blanc,Sec,,1B355
 AOC,Côte de Beaune,Côte de Beaune blanc,Vin tranquille,Blanc,Sec,,1B354
@@ -3470,7 +3204,6 @@ AOC,Coteaux du Lyonnais,Coteaux du Lyonnais blanc nouveau ou primeur,Vin primeur
 AOC,Coteaux du Lyonnais,Coteaux du Lyonnais blanc,Vin tranquille,Blanc,Sec,,1B349
 AOC,Chorey-lès-Beaune,Chorey-lès-Beaune,Vin tranquille,Blanc,Sec,,1B346
 AOC,Château-Chalon,Château-Chalon,Vin jaune,Blanc,Sec,,1B342
-AOC,Bourgogne,Bourgogne Vézelay,Vin tranquille,Blanc,Sec,,1B341
 AOC,Bouzeron,Bouzeron,Vin tranquille,Blanc,Sec,,1B340
 AOC,Charlemagne,Charlemagne,Vin tranquille,Blanc,Sec,Grand cru,1B338
 AOC,Chablis,Chablis premier cru Vosgros,Vin tranquille,Blanc,Sec,Premier cru,1B332 40
@@ -3788,6 +3521,7 @@ AOC,Touraine,Touraine blanc,Vin tranquille,Blanc,Sec,,1B235S
 AOC,Touraine,Touraine mousseux blanc,Vin mousseux,Blanc,,,1B235M 1
 AOC,Valençay,Valençay blanc,Vin tranquille,Blanc,Sec,,1B233S
 AOC,Cour-Cheverny,Cour-Cheverny,Vin tranquille,Blanc,Sec,,1B232S
+AOC,Cour-Cheverny,Cour-Cheverny moelleux et doux,Vin tranquille,Blanc,Moelleux,,1B232L
 AOC,Cheverny,Cheverny blanc,Vin tranquille,Blanc,Sec,,1B231S
 AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine sur lie,Vin sur lie,Blanc,Sec,,1B230 01
 AOC,Muscadet Sèvre et Maine,Muscadet Sèvre et Maine,Vin tranquille,Blanc,Sec,,1B230
@@ -3806,7 +3540,6 @@ AOC,Montlouis-sur-Loire,Montlouis-sur-Loire mousseux,Vin mousseux,Blanc,,,1B225M
 AOC,Montlouis-sur-Loire,Montlouis-sur-Loire,Vin tranquille,Blanc,,,1B225
 AOC,Jasnières,Jasnières,Vin tranquille,Blanc,,,1B224
 AOC,Coteaux du Loir,Coteaux du Loir blanc,Vin tranquille,Blanc,,,1B223
-AOC,Chinon,Chinon blanc,Vin tranquille,Blanc,Sec,,1B222S
 AOC,Chinon,Chinon blanc,Vin tranquille,Blanc,Sec,,1B222S
 AOC,Coteaux du Vendômois,Coteaux du Vendômois blanc,Vin tranquille,Blanc,Sec,,1B218S
 AOC,Savennières Roche aux Moines,Savennières Roche aux Moines,Vin tranquille,Blanc,Sec,,1B216S02
@@ -3838,13 +3571,9 @@ AOC,Coteaux de l'Aubance,Coteaux de l'Aubance Sélection de grains nobles,Vin de
 AOC,Coteaux de l'Aubance,Coteaux de l'Aubance,Vin de triees successives,Blanc,Doux,,1B211L
 AOC,Bonnezeaux,Bonnezeaux,Vin de triees successives,Blanc,Doux,,1B210L
 AOC,Saumur,Saumur blanc,Vin tranquille,Blanc,Sec,,1B206
-AOC,Saumur,Saumur blanc,Vin tranquille,Blanc,Sec,,1B206
-AOC,Saumur,Saumur mousseux blanc,Vin mousseux,Blanc,,,1B205M 1
 AOC,Saumur,Saumur mousseux blanc,Vin mousseux,Blanc,,,1B205M 1
 AOC,Anjou-Coteaux de la Loire,Anjou-Coteaux de la Loire,Vin tranquille,Blanc,,,1B202L
 AOC,Anjou,Anjou mousseux blanc,Vin mousseux,Blanc,,,1B200M 1
-AOC,Anjou,Anjou mousseux blanc,Vin mousseux,Blanc,,,1B200M 1
-AOC,Anjou,Anjou blanc,Vin tranquille,Blanc,,,1B200
 AOC,Anjou,Anjou blanc,Vin tranquille,Blanc,,,1B200
 AOC,Orléans,Orléans blanc,Vin tranquille,Blanc,Sec,,1B198
 AOC,Coteaux du Giennois,Coteaux du Giennois blanc,Vin tranquille,Blanc,Sec,,1B197S
@@ -3856,6 +3585,7 @@ AOC,Pouilly-sur-Loire,Pouilly-sur-Loire,Vin tranquille,Blanc,Sec,,1B191S
 AOC,Menetou-Salon,Menetou-Salon blanc,Vin tranquille,Blanc,Sec,,1B190S
 AOC,Rivesaltes,Rivesaltes ambré hors d'âge,Vin doux naturel,Ambré,Doux,,1B188NHA
 AOC,Rivesaltes,Rivesaltes ambré,Vin doux naturel,Ambré,Doux,,1B188N01
+AOC,Rivesaltes,Rivesaltes,Vin doux naturel,Blanc,Doux,,1B188N
 AOC,Rasteau,Rasteau blanc,Vin doux naturel,Blanc,Doux,,1B187N
 AOC,Muscat du Cap Corse,Muscat du Cap Corse,Vin doux naturel,Blanc,Doux,,1B186N
 AOC,Muscat de Saint-Jean-de-Minervois,Muscat de Saint-Jean-de-Minervois,Vin doux naturel,Blanc,Doux,,1B185N
@@ -3873,33 +3603,23 @@ AOC,Grand Roussillon,Grand Roussillon blanc,Vin doux naturel,Blanc,Doux,,1B179N 
 AOC,Muscat de Frontignan ou Frontignan ou Vin de Frontignan,Muscat de Frontignan ou Frontignan ou Vin de Frontignan vin de liqueur,Vin de liqueur,Blanc,Doux,,1B177Z01
 AOC,Muscat de Frontignan ou Frontignan ou Vin de Frontignan,Muscat de Frontignan ou Frontignan ou Vin de Frontignan vin doux naturel,Vin doux naturel,Blanc,Doux,,1B177N
 AOC,Banyuls,Banyuls ambré hors âge rancio,Vin doux naturel,Blanc,Doux,,1B175NHR
-AOC,Banyuls,Banyuls ambré hors âge rancio,Vin doux naturel,Blanc,Doux,,1B175NHR
-AOC,Banyuls,Banyuls ambré rancio,Vin doux naturel,Blanc,Doux,,1B175NAR
 AOC,Banyuls,Banyuls ambré rancio,Vin doux naturel,Blanc,Doux,,1B175NAR
 AOC,Banyuls,Banyuls ambré hors d'âge,Vin doux naturel,Blanc,Doux,,1B175NAH
-AOC,Banyuls,Banyuls ambré hors d'âge,Vin doux naturel,Blanc,Doux,,1B175NAH
 AOC,Banyuls,Banyuls ambré,Vin doux naturel,Blanc,Doux,,1B175NA0
-AOC,Banyuls,Banyuls ambré,Vin doux naturel,Blanc,Doux,,1B175NA0
-AOC,Banyuls,Banyuls blanc,Vin doux naturel,Blanc,Doux,,1B175N
 AOC,Banyuls,Banyuls blanc,Vin doux naturel,Blanc,Doux,,1B175N
 AOC,Corrèze,Corrèze Coteaux de la Vézère blanc,Vin tranquille,Blanc,Sec,,1B169S01
-AOC,Corrèze,Corrèze vins de raisins passerillés vin de paille blanc,Vin de paille,Blanc,,,1B169L
+AOC,Corrèze,Corrèze vins de raisins passerillés vin de paille,Vin de paille,,,,1B169L
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Sainte-Foy blanc sec,Vin tranquille,Blanc,Sec,,1B168S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Sainte-Foy liquoreux,Vin de triees successives,Blanc,Doux,,1B168L01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux-Sainte-Foy moelleux,Vin tranquille,Blanc,Moelleux,,1B168D
+AOC,Côtes de Bordeaux,Côtes de Bordeaux Sainte-Foy moelleux,Vin tranquille,Blanc,Moelleux,,1B168D
 AOC,Pacherenc du Vic-Bilh,Pacherenc du Vic-Bilh sec,Vin tranquille,Blanc,Sec,,1B166S
-AOC,Pacherenc du Vic-Bilh,Pacherenc du Vic-Bilh sec,Vin tranquille,Blanc,Sec,,1B166S
-AOC,Pacherenc du Vic-Bilh,Pacherenc du Vic-Bilh,Vin de triees successives,Blanc,Doux,,1B166L
 AOC,Pacherenc du Vic-Bilh,Pacherenc du Vic-Bilh,Vin de triees successives,Blanc,Doux,,1B166L
 AOC,Sauternes,Sauternes,Vin de triees successives,Blanc,Doux,,1B164L
 AOC,Saussignac,Saussignac,Vin tranquille,Blanc,Doux,,1B163L
-AOC,Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux blanc liquoreux,Vin de triees successives,Blanc,Doux,,1B162L
-AOC,Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux blanc moelleux,Vin tranquille,Blanc,Moelleux,,1B162D
-AOC,Sainte-Foy-Bordeaux,Sainte-Foy-Bordeaux blanc,Vin tranquille,Blanc,Sec,,1B162
 AOC,Sainte-Croix-du-Mont,Sainte-Croix-du-Mont,Vin de triees successives,Blanc,Doux,,1B161L
 AOC,Rosette,Rosette,Vin tranquille,Blanc,Doux,,1B155D
 AOC,Premières Côtes de Bordeaux,Premières Côtes de Bordeaux,Vin tranquille,Blanc,,,1B153D
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Blaye blanc,Vin tranquille,Blanc,Sec,,1B152S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Blaye blanc,Vin tranquille,Blanc,Sec,,1B152S01
 AOC,Pessac-Léognan,Pessac-Léognan blanc,Vin tranquille,Blanc,Sec,,1B150S
 AOC,Montravel,Montravel blanc,Vin tranquille,Blanc,Sec,,1B146S
@@ -3917,18 +3637,11 @@ AOC,Graves,Graves blanc,Vin tranquille,Blanc,Sec,,1B130S
 AOC,Graves supérieures,Graves supérieures,Vin tranquille,Blanc,Doux,,1B130D
 AOC,Gaillac premières côtes,Gaillac premières côtes,Vin tranquille,Blanc,Sec,,1B129S
 AOC,Gaillac,Gaillac blanc primeur,Vin primeur,Blanc,Sec,,1B128S 2
-AOC,Gaillac,Gaillac blanc primeur,Vin primeur,Blanc,Sec,,1B128S 2
-AOC,Gaillac,Gaillac blanc,Vin tranquille,Blanc,Sec,,1B128S
 AOC,Gaillac,Gaillac blanc,Vin tranquille,Blanc,Sec,,1B128S
 AOC,Gaillac,Gaillac mousseux,Vin mousseux,Blanc,,,1B128M03
-AOC,Gaillac,Gaillac mousseux,Vin mousseux,Blanc,,,1B128M03
-AOC,Gaillac,Gaillac méthode ancestrale doux,Vin mousseux Méthode ancestrale,Blanc,Doux,,1B128M02
 AOC,Gaillac,Gaillac méthode ancestrale doux,Vin mousseux Méthode ancestrale,Blanc,Doux,,1B128M02
 AOC,Gaillac,Gaillac méthode ancestrale,Vin mousseux,Blanc,,,1B128M01
-AOC,Gaillac,Gaillac méthode ancestrale,Vin mousseux,Blanc,,,1B128M01
 AOC,Gaillac,Gaillac vendanges tardives,Vin de vendanges tardives,Blanc,Doux,,1B128DVT
-AOC,Gaillac,Gaillac vendanges tardives,Vin de vendanges tardives,Blanc,Doux,,1B128DVT
-AOC,Gaillac,Gaillac doux,Vin tranquille,Blanc,Doux,,1B128D
 AOC,Gaillac,Gaillac doux,Vin tranquille,Blanc,Doux,,1B128D
 AOC,Entre-deux-Mers,Entre-deux-Mers Haut-Benauge,Vin tranquille,Blanc,Sec,,1B126S
 AOC,Entre-deux-Mers,Entre-deux-Mers,Vin tranquille,Blanc,Sec,,1B125S
@@ -3946,30 +3659,19 @@ AOC,Cadillac,Cadillac,Vin de triees successives,Blanc,Doux,,1B110L
 AOC,Buzet,Buzet blanc,Vin tranquille,Blanc,Sec,,1B109S
 AOC,Côtes de Bourg Bourg et Bourgeais,Côtes de Bourg Bourg et Bourgeais blanc,Vin tranquille,Blanc,Sec,,1B108S
 AOC,Bordeaux,Bordeaux Haut-Benauge,Vin tranquille,Blanc,Sec,,1B107S
-AOC,Bordeaux,Bordeaux Haut-Benauge,Vin tranquille,Blanc,Sec,,1B107S
-AOC,Bordeaux,Bordeaux Haut-Benauge avec sucres,Vin tranquille,Blanc,Moelleux,,1B107D
 AOC,Bordeaux,Bordeaux Haut-Benauge avec sucres,Vin tranquille,Blanc,Moelleux,,1B107D
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Francs blanc sec,Vin tranquille,Blanc,Sec,,1B106S01
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Francs blanc sec,Vin tranquille,Blanc,Sec,,1B106S01
 AOC,Côtes de Bordeaux,Côtes de Bordeaux Francs liquoreux,Vin de triees successives,Blanc,Doux,,1B106L01
-AOC,Côtes de Bordeaux,Côtes de Bordeaux Francs liquoreux,Vin de triees successives,Blanc,Doux,,1B106L01
-AOC,Bordeaux,Bordeaux blanc,Vin tranquille,Blanc,Sec,,1B105S
 AOC,Bordeaux,Bordeaux blanc,Vin tranquille,Blanc,Sec,,1B105S
 AOC,Bordeaux supérieur,Bordeaux supérieur blanc,Vin tranquille,Blanc,Doux,Supérieur,1B105D2
 AOC,Bordeaux,Bordeaux blanc avec sucres,Vin tranquille,Blanc,Moelleux,,1B105D
-AOC,Bordeaux,Bordeaux blanc avec sucres,Vin tranquille,Blanc,Moelleux,,1B105D
 AOC,Bergerac,Bergerac blanc,Vin tranquille,Blanc,Sec,,1B103S
 AOC,Côtes de Bergerac,Côtes de Bergerac blanc,Vin tranquille,Blanc,Moelleux,,1B103D
-AOC,Côtes de Bergerac,Côtes de Bergerac blanc,Vin tranquille,Blanc,Moelleux,,1B103D
-AOC,Béarn,Béarn blanc,Vin tranquille,Blanc,Sec,,1B101S
 AOC,Béarn,Béarn blanc,Vin tranquille,Blanc,Sec,,1B101S
 AOC,Barsac,Barsac,Vin de triees successives,Blanc,Doux,,1B100L
 AOC,Coteaux champenois,Coteaux champenois blanc,Vin tranquille,Blanc,Sec,,1B082M01
 AOC,Champagne,Champagne,Vin mousseux,Blanc,,,1B080M 1
-AOC,Champagne,Champagne,Vin mousseux,Blanc,,,1B080M 1
 AOC,Champagne,Champagne premier cru,Vin mousseux,Blanc,,Premier cru,1B080M 1
-AOC,Champagne,Champagne premier cru,Vin mousseux,Blanc,,Premier cru,1B080M 1
-AOC,Champagne,Champagne grand cru,Vin mousseux,Blanc,,Grand cru,1B080M 1
 AOC,Champagne,Champagne grand cru,Vin mousseux,Blanc,,Grand cru,1B080M 1
 AOC,Alsace ou Vin d'Alsace,Alsace suivi d'un nom de lieu-dit blanc Auxerrois,Vin tranquille,Blanc,Sec,,1B070S0A
 AOC,Alsace ou Vin d'Alsace,Alsace suivi d'un nom de lieu-dit blanc Sylvaner,Vin tranquille,Blanc,Sec,,1B070S08
@@ -4010,7 +3712,9 @@ AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire Auxerrois,Vin tranquille,B
 AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire Pinot Gris,Vin tranquille,Blanc,Sec,,1B063S03
 AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire blanc,Vin tranquille,Blanc,Sec,,1B063S
 AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire vendanges tardives Pinot Gris,Vin de vendanges tardives,Blanc,Doux,,1B063D23
+AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire vendanges tardives Pinot Gris,Vin de vendanges tardives,Blanc,Doux,,1B063D13
 AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire sélection de grains nobles Pinot Gris,Vin de sélection de grains nobles,Blanc,Doux,,1B063D13
+AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire Auxerrois,Vin tranquille,Blanc,Sec,,1B062S0A
 AOC,Alsace ou Vin d'Alsace,Alsace Val Saint Grégoire Pinot Blanc,Vin tranquille,Blanc,Sec,,1B062S06
 AOC,Alsace ou Vin d'Alsace,Alsace Vallée Noble Riesling,Vin tranquille,Blanc,Sec,,1B062S04
 AOC,Alsace ou Vin d'Alsace,Alsace Vallée Noble Pinot Gris,Vin tranquille,Blanc,Sec,,1B062S03
@@ -4215,7 +3919,6 @@ AOC,Alsace grand cru,Alsace grand cru Sonnenglanz Muscat Ottonel,Vin tranquille,
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz vendanges tardives Riesling,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B040D24
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz vendanges tardives Muscat,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B040D22
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz vendanges tardives Gewurztraminer,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B040D21
-AOC,Alsace grand cru,Alsace grand cru Sonnenglanz vendanges tardives Muscat Ottonel,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B040D20
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz vendanges tardives Muscat Ottonel,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B040D20
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz sélection de grains nobles Riesling,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B040D14
 AOC,Alsace grand cru,Alsace grand cru Sonnenglanz sélection de grains nobles Pinot gris,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B040D13
@@ -4772,10 +4475,14 @@ AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergheim vendanges tardives G
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergheim sélection de grains nobles Riesling,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B003D14
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergheim sélection de grains nobles Pinot gris,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B003D13
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergheim sélection de grains nobles Gewurztraminer,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B003D11
+AOC,Alsace grand cru Altenberg de Bergbieten,Alsace grand cru Altenberg de Bergbieten Riesling,Vin tranquille,Blanc,Sec,Grand cru,1B002S 4
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten Riesling,Vin tranquille,Blanc,Sec,Grand cru,1B002S 4
+AOC,Alsace grand cru Altenberg de Bergbieten,Alsace grand cru Altenberg de Bergbieten Pinot gris,Vin tranquille,Blanc,Sec,Grand cru,1B002S 3
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten Pinot gris,Vin tranquille,Blanc,Sec,Grand cru,1B002S 3
+AOC,Alsace grand cru Altenberg de Bergbieten,Alsace grand cru Altenberg de Bergbieten Muscat,Vin tranquille,Blanc,Sec,Grand cru,1B002S 2
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten Muscat,Vin tranquille,Blanc,Sec,Grand cru,1B002S 2
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten Gewurztraminer,Vin tranquille,Blanc,Sec,Grand cru,1B002S 1
+AOC,Alsace grand cru Altenberg de Bergbieten,Alsace grand cru Altenberg de Bergbieten Muscat Ottonel,Vin tranquille,Blanc,Sec,Grand cru,1B002S00
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten Muscat Ottonel,Vin tranquille,Blanc,Sec,Grand cru,1B002S00
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten vendanges tardives Riesling,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B002D24
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten vendanges tardives Pinot gris,Vin de vendanges tardives,Blanc,Doux,Grand cru,1B002D23
@@ -4787,7 +4494,6 @@ AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten sélection de grai
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten sélection de grains nobles Muscat,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B002D12
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten sélection de grains nobles Gewurztraminer,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B002D11
 AOC,Alsace grand cru,Alsace grand cru Altenberg de Bergbieten sélection de grains nobles Muscat Ottonel,Vin de sélection de grains nobles,Blanc,Doux,Grand cru,1B002D10
-AOC,Alsace ou Vin d'Alsace,Alsace blanc,Vin tranquille,Blanc,Sec (usage),,1B001S 9
 AOC,Alsace ou Vin d'Alsace,Alsace blanc Sylvaner,Vin tranquille,Blanc,Sec,,1B001S 8
 AOC,Alsace ou Vin d'Alsace,Alsace blanc Pinot ou Klevner,Vin tranquille,Blanc,Sec,,1B001S 7
 AOC,Alsace ou Vin d'Alsace,Alsace blanc Chasselas ou Gutedel,Vin tranquille,Blanc,Sec,,1B001S 5
