@@ -8,8 +8,8 @@
 <div class="container">
 <h1>Codes produits douaniers</h1>
 <p>Les codes produits INAO suivants sont utilisés par la douane dans son application de télédéclaration des DRM CIEL.</p>
-<p class="text-muted">Date de dernière mise à jour : <span id="maj-date">Info non disponible</span></p>
-<div class="bootstrap-table" style="margin: 20px;">
+<p class="text-muted">Date de dernière mise à jour : <span id="maj-date">...</span></p>
+<div class="bootstrap-table" style="margin: 20px; display: none">
 	<table id="vins_table" class="display" data-pagination="true" data-search="true" data-page-size="25">
         <thead>
             <tr>
@@ -20,6 +20,7 @@
         </thead>
     </table>
 </div>
+<div id="loading" style="margin: 100px;"><p>Chargement en cours...</p></div>
 </div>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -31,11 +32,11 @@
 (function (vinstable) {
 
     vinstable.data = {};
-    vinstable.query = {};
     ajaxquery = $.ajax("../data/vins_ciel.csv", {contentType: "text/csv charset=utf-8"}).then(function (response, textStatus, jqXHR) {
             maj = jqXHR.getResponseHeader('Last-Modified');
-            vinstable.query = jqXHR;
-	    console.log(["Last-Modified", maj]);
+	    if (!maj) {
+                maj = "information non disponible";
+            }
 	    $("#maj-date").html(maj);
             var parsed = Papa.parse(response, {header: true});
             vinstable.data = parsed.data;
@@ -44,13 +45,16 @@
     ajaxquery.done(function (response, textStatus, jqXHR) {
 	$('#vins_table').bootstrapTable({
             data: vinstable.data, 
-           searchText: setText
+           searchText: searchLoaded
         });
    });
 })(window.vinstable = window.vinstable || {});
-function setText() {
+function searchLoaded() {
 loc = decodeURI(document.location+"");
 arg = loc.split('q=');
+baseloc = arg[0].replace('?', '').replace('#', '');
+$(".bootstrap-table").show();
+$("#loading").hide();
 if (arg.length > 1) {
 	return arg[1];
 }
