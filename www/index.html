@@ -73,7 +73,10 @@ if (arg.length > 1) {
 return "";
 }
 $("#copy_link").click(function() {
-	navigator.clipboard.writeText(baseloc + '?q=' + $('.search-input').val() );
+	navigator.clipboard.writeText(baseloc);
+	if ($('.search-input').val()) {
+            navigator.clipboard.writeText(baseloc + '?q=' + $('.search-input').val() );
+	}
 	$('#copy_copied').show();
 	$('#copy_link').hide();
 	setTimeout(function() {
