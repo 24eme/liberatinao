@@ -31,8 +31,11 @@
 (function (vinstable) {
 
     vinstable.data = {};
+    vinstable.query = {};
     ajaxquery = $.ajax("../data/vins_ciel.csv", {contentType: "text/csv charset=utf-8"}).then(function (response, textStatus, jqXHR) {
             maj = jqXHR.getResponseHeader('Last-Modified');
+            vinstable.query = jqXHR;
+	    console.log(["Last-Modified", maj]);
 	    $("#maj-date").val(maj);
             var parsed = Papa.parse(response, {header: true});
             vinstable.data = parsed.data;
