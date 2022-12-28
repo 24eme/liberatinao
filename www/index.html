@@ -36,7 +36,7 @@
             maj = jqXHR.getResponseHeader('Last-Modified');
             vinstable.query = jqXHR;
 	    console.log(["Last-Modified", maj]);
-	    $("#maj-date").val(maj);
+	    $("#maj-date").html(maj);
             var parsed = Papa.parse(response, {header: true});
             vinstable.data = parsed.data;
             return parsed;
