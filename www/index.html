@@ -1,0 +1,58 @@
+<html>
+<head>
+<lnk rel="stylesheet" type="text/css" href="DataTables/datatables.min.css"/>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-table.min.css">
+</head>
+<body>
+<div class="container">
+<h1>Codes produits douaniers</h1>
+<p>Les codes produits INAO suivants sont utilisés par la douane dans son application de télédéclaration des DRM CIEL.</p>
+<p class="text-muted">Date de dernière mise à jour : <span id="maj-date">Info non disponible</span></p>
+<div class="bootstrap-table" style="margin: 20px;">
+	<table id="vins_table" class="display" data-pagination="true" data-search="true" data-page-size="25">
+        <thead>
+            <tr>
+                <th data-field="CODE PRODUIT">Code produit (INAO)</th>
+		<th data-field="LIBELLE">Libellé complet</th>
+		<th data-field="ABREGE">Libellé abrégé</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+</div>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrap-table.min.js"></script>
+<script type="text/javascript" src="js/bootstrap-table-fr-FR.min.js"></script>
+<script type="text/javascript" src="js/papaparse.min.js"></script>
+<scrpt type="text/javascript" src="DataTables/datatables.min.js"></script>
+<script>
+(function (vinstable) {
+
+    vinstable.data = {};
+    ajaxquery = $.ajax("../data/vins_ciel.csv", {contentType: "text/csv charset=utf-8"}).then(function (response, textStatus, jqXHR) {
+            maj = jqXHR.getResponseHeader('Last-Modified');
+	    $("#maj-date").val(maj);
+            var parsed = Papa.parse(response, {header: true});
+            vinstable.data = parsed.data;
+            return parsed;
+        });
+    ajaxquery.done(function (response, textStatus, jqXHR) {
+	$('#vins_table').bootstrapTable({
+            data: vinstable.data, 
+           searchText: setText
+        });
+   });
+})(window.vinstable = window.vinstable || {});
+function setText() {
+loc = decodeURI(document.location+"");
+arg = loc.split('q=');
+if (arg.length > 1) {
+	return arg[1];
+}
+return "";
+}
+</script>
+</body
+</html>
