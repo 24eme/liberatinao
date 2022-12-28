@@ -5,7 +5,12 @@
 </head>
 <body>
 <div class="container">
-<h1>Codes produits douaniers</h1>
+<h1>Codes produits douaniers
+<small>
+	<a id="copy_link" alt="Partage de la recherche" href="#"><span class="glyphicon glyphicon-copy"></span></a>
+	<span class="text-muted" style="display: none;" id="copy_copied">Url de votre recherche copiée</span>
+</small>
+</h1>
 <p>Les codes produits INAO suivants sont utilisés par la douane dans son application de télédéclaration des DRM CIEL.</p>
 <p class="text-muted">Date de dernière mise à jour : <span id="maj-date">...</span></p>
 <div class="bootstrap-table" style="margin: 20px; display: none">
@@ -55,10 +60,20 @@ baseloc = arg[0].replace('?', '').replace('#', '');
 $(".bootstrap-table").show();
 $("#loading").hide();
 if (arg.length > 1) {
-	return arg[1];
+	return arg[1].split('#')[0];
 }
 return "";
 }
+$("#copy_link").click(function() {
+	navigator.clipboard.writeText(baseloc + '?q=' + $('.search-input').val() );
+	$('#copy_copied').show();
+	$('#copy_link').hide();
+	setTimeout(function() {
+                               $('#copy_copied').hide();
+                               $('#copy_link').show();
+                   }, 2000)
+	return false;
+});
 </script>
 </body
 </html>
